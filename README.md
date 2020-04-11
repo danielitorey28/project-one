@@ -1,57 +1,614 @@
-#Hunting Best Neighborhood for Living in NYC
+Diferencia entre Toronto y New York
 
-Nueva York es la ciudad por excelencia, una de las capitales turísticas del mundo. El cine y la publicidad la han convertido, con el paso de los años, en un lugar cargado de magia al que todo el mundo queremos ir. Sus rascacielos, la icónica Estatua de la Libertad, los enormes letreros luminosos de Times Square o el colorido de Chinatown, son símbolos que contribuyen a crear de Nueva York el gran teatro de los sueños de tantos millones de personas.
+##Problematica
 
-A pesar del inmenso atractivo turístico de la ciudad, a la hora de planear nuestro viaje a Nueva York nos asalta inmediatamente una pregunta: ¿en qué zona alojarnos? ¿En Manhattan? ¿En Brooklyn? ¿cerca de Central Park o de Times Square? La respuesta a esta pregunta no es sólo una sino que variará dependiendo de nuestros gustos e intereses, por eso queremos orientarte con este artículo. Descubre qué lugares están mejor comunicados, son más indicados para turistas primerizos, para viajeros expertos, amantes de la fiesta y mucho más. ¡No os perdáis nuestras recomendaciones!
+Se hara una comparacion sobre estas dos ciudades, dond ese veran los horarios, sus tiempos (climas), La situacion, entorno, calidad de vida, entre otros.
+Al final se hace un diagnostico para poder emprender un negocio o/y empresa en alguna de estas ciudades.
 
-Barrios de Nueva York
-La ciudad de Nueva York se divide en grandes barrios muy diferenciados. En el centro encontramos la isla de Manhattan, conocida popularmente como la Gran Manzana. Al sur, unida a la isla central por el mítico puente que lleva el mismo nombre se sitúa Brooklyn. Más al sur de Brooklyn, y algo más apartada encontramos Staten Island. El gran barrio de Queens está al este de Manhattan, separado de ésta por el East River, mientras que el mítico Bronx lo encontramos al norte de Queens, casi tocando al norte con los límites de la Gran Manzana.
+#Probabilidad de cielo más despejado
+El porcentaje del tiempo en que el cielo está despejado, mayormente despejado o parcialmente nublado (es decir, menos del 60 % el cielo está cubierto de nubes).
+- New York   50%
+- Toronto    40%
 
-MANHATTAN
-Manhattan es el barrio turístico por excelencia de Nueva York. No sólo por encontrarse en el centro geográfico de la gran urbe sino porque también es el el lugar que concentra un mayor número de atracciones y lugares de interés. Dentro de esta isla de forma alargada encontramos a su vez con diferentes zonas que merece la pena destacar:
+#Probabilidad diaria de precipitación
+El porcentaje de días en los cuales se observó precipitación, excluidas las cantidades insignificantes.
+- New York   25%
+- Toronto    20%
 
-Midtown
-En Midtown encontramos un gran número de hoteles concentrados alrededor de las calles cercanas a Times Square, la mítica plaza famosa por sus inmensos carteles luminosos de publicidad. Aquí encontramos lugares tan turísticos como la Quinta Avenida, Broadway o el impresionante edificio del Empire State. Como su propio nombre indica, esta zona se encuentra muy céntrica dentro de Manhattan, lo que la convierte en un excelente barrio en el que buscar alojamiento. Las comunicaciones con el resto de la ciudad son bastante cómodas y contamos con todo tipo de servicios de hostelería, transporte o atracciones para turistas.
+#Precipitación de lluvia mensual promedio
+El promedio de lluvia acumulado durante un periodo de 31 días centrado en el día en cuestión
+- New York   75mm
+- Toronto    19mm
 
-Central Park: Upper East Side y Upper West Side
-Un poco más al norte de Midtown damos con ese cuadrado verde gigante en el mapa que es el mítico Central Park. Este parque cuenta con diversas atracciones, como el parque zoológico o el Metropolitan Museum, además de constituir el principal pulmón verde de la ciudad: un lugar de esparcimiento, ideal para la práctica del deporte o para disfrutar de un agradable paseo en cualquier época del año.
+#Precipitación de nieve mensual promedio
+La precipitación promedio en nieve acumulada en equivalente a líquido durante un período de 31 días centrado en el día en cuestión.
+- New York   12mm
+- Toronto    8mm
+
+#Horas de luz natural
+La cantidad de horas durante las cuales el sol está por lo menos parcialmente sobre el horizonte.
+- New York   10 hr
+- Toronto    9 hr
+
+#Probabilidad de condiciones bochornosas
+El porcentaje de tiempo en el que está bochornoso, opresivo o insoportable (es decir, un punto de rocío superior a 18 °C).
+- New York   53%
+- Toronto    28%
+
+#Velocidad promedio del viento
+El promedio de las velocidades medias del viento por hora a 10 metros sobre la tierra.
+- New York   16 km/h
+- Toronto    23 km/h
+
+#Puntuación de turismo
+La puntuación de turismo, que favorece los días despejados y sin lluvia con temperaturas percibidas entre 18 °C y 27 °C.
+- New York   6
+- Toronto    7
+
+#Puntuación de playa/piscina
+La puntuación de playa/piscina, que favorece días despejados, sin lluvia, con temperaturas percibidas entre 24 °C y 32 °C.
+- New York   6.2
+- Toronto    5
+
+#Periodo de cultivo
+El porcentaje de probabilidad de que un día dado esté dentro del periodo de cultivo, que se define como el periodo continuo más largo de temperaturas no congeladas (≥0 °C) en el año (el año calendario en el hemisferio Norte, o del 1 de julio hasta el 30 de junio en el hemisferio Sur).
+- New York   100%
+- Toronto    100%
+
+#Grados día de crecimiento
+Los grados día de crecimiento promedio acumulados en el transcurso del año, donde los grados día de crecimiento se definen como la integral térmica por encima de una temperatura base (10 °C en este caso).
+- New York   2100 °C
+- Toronto    1450 °C
+
+#Temperatura promedio del agua
+La temperatura promedio diaria de la superficie del agua de una área amplia.
+- New York   23 °C
+- Toronto    21 °C
+
+#Energía solar de onda corta incidente diaria promedio
+La energía solar de onda corta promedio diaria que llega a la superficie terrestre por metro cuadrado.
+- New York   6 kWh
+- Toronto    7 kWh
 
 
-A la zona del mapa que se extiende al este de Central Park se la conoce como Upper East Side, y es un área más bien residencial que cuenta, por supuesto, con todo tipo de tiendas y servicios, aunque a muchos visitantes les puede resultar algo menos entretenida que otros barrios más al sur de la isla.
+Comparación del tiempo promedio en Nueva York y Toronto
+ Nueva York
+Nueva York, Estados Unidos
+ Toronto
+Canadá
+ 
+Agregar una ciudad o aeropuerto
 
-Algo muy parecido ocurre con el Upper West Side, situado al oeste de Central Park. Un barrio de carácter residencial y de ambiente tranquilo. Su límite hacia el norte viene marcado por el barrio de Harlem, y en él encontramos una importante comunidad judía, de la que dan buena muestra los muchos establecimientos de comida kosher de la zona.
+ 
+Temperatura máxima y mínima promedio
+ene.
+feb.
+mar.
+abr.
+may.
+jun.
+jul.
+ago.
+sept.
+oct.
+nov.
+dic.
+-10 °C
+-5 °C
+0 °C
+5 °C
+10 °C
+15 °C
+20 °C
+25 °C
+30 °C
+Ahora
+Ahora
+Toronto
+Toronto
+Nueva York
+Nueva York
+La temperatura promedio diaria del aire a 2 metros sobre la tierra.2 metros
+Nueva York
+ene.
+feb.
+mar.
+abr.
+may.
+jun.
+jul.
+ago.
+sept.
+oct.
+nov.
+dic.
+0
+4
+8
+12
+16
+20
+0
+Ahora
+Ahora
+helada
+muy fría
+fría
+fría
+cómoda
+caliente
+fresca
+fresca
+muy fría
+Toronto
+ene.
+feb.
+mar.
+abr.
+may.
+jun.
+jul.
+ago.
+sept.
+oct.
+nov.
+dic.
+0
+4
+8
+12
+16
+20
+0
+Ahora
+Ahora
+helada
+muy fría
+fría
+fría
+fresca
+cómoda
+muy fría
+helada
+caliente
+cómoda
+frígida
+-9 °C
+helada
+0 °C
+muy fría
+7 °C
+fría
+13 °C
+fresca
+18 °C
+cómoda
+24 °C
+caliente
+29 °C
+muy caliente
+35 °C
+tórrida
+La temperatura promedio por hora, codificada por colores en bandas. Las áreas sombreadas superpuestas indican la noche y el crepúsculo civil.
 
-Harlem
-Harlem es un barrio de lo más animado, perfecta muestra del contraste entre la vieja y la nueva Nueva York. La cultura latina y la afroamericana están aquí muy presentes, y buena muestra de ello es el mítico Teatro Apollo, con su histórica fachada y que aún alberga importantes eventos de carácter musical. A pesar de que las grandes cadenas de hostelería están progresivamente invadiendo sus calles, el barrio todavía conserva un ambiente único.
+ 
+Probabilidad de cielo más despejado
+ene.
+feb.
+mar.
+abr.
+may.
+jun.
+jul.
+ago.
+sept.
+oct.
+nov.
+dic.
+0 %
+10 %
+20 %
+30 %
+40 %
+50 %
+60 %
+70 %
+80 %
+90 %
+100 %
+Ahora
+Ahora
+Toronto
+Toronto
+Nueva York
+Nueva York
+El porcentaje del tiempo en que el cielo está despejado, mayormente despejado o parcialmente nublado (es decir, menos del 60 % el cielo está cubierto de nubes).
+Probabilidad diaria de precipitación
+ene.
+feb.
+mar.
+abr.
+may.
+jun.
+jul.
+ago.
+sept.
+oct.
+nov.
+dic.
+0 %
+10 %
+20 %
+30 %
+40 %
+50 %
+60 %
+70 %
+80 %
+90 %
+100 %
+Ahora
+Ahora
+Toronto
+Toronto
+Nueva York
+Nueva York
+El porcentaje de días en los cuales se observó precipitación, excluidas las cantidades insignificantes.
 
-Soho
-Esta zona, situada dentro de lo que se conoce como Lower Manhattan, mucho más al sur de Central Park, constituye uno de los barrios más cotizados en lo que a alojamiento se refiere. Durante gran parte del siglo XX, sin embargo, esta era una zona de inmigrantes recién llegados en busca de viviendas baratas mientras trataban de abrirse paso en su nuevo país de acogida. En la actualidad el Soho alberga un buen número de restaurantes de moda, así como bares y clubes en los que poder tomar unas copas por la noche. El único inconveniente que pueden encontrar aquí algunos turistas es que algunas atracciones quedan mucho más al norte, y por tanto no tan a mano como en otros barrios como Midtown.
+ 
+Precipitación de lluvia mensual promedio
+ene.
+feb.
+mar.
+abr.
+may.
+jun.
+jul.
+ago.
+sept.
+oct.
+nov.
+dic.
+20 mm
+40 mm
+60 mm
+80 mm
+100 mm
+Ahora
+Ahora
+Toronto
+Toronto
+Nueva York
+Nueva York
+El promedio de lluvia acumulado durante un periodo de 31 días centrado en el día en cuestión
+Precipitación de nieve mensual promedio
+ene.
+feb.
+mar.
+abr.
+may.
+jun.
+jul.
+ago.
+sept.
+oct.
+nov.
+dic.
+0 mm
+5 mm
+10 mm
+15 mm
+Ahora
+Ahora
+Toronto
+Toronto
+Nueva York
+Nueva York
+La precipitación promedio en nieve acumulada en equivalente a líquido durante un período de 31 días centrado en el día en cuestión.
+Horas de luz natural
+ene.
+feb.
+mar.
+abr.
+may.
+jun.
+jul.
+ago.
+sept.
+oct.
+nov.
+dic.
+0 h
+4 h
+8 h
+12 h
+16 h
+20 h
+24 h
+Ahora
+Ahora
+Toronto
+Toronto
+Nueva York
+Nueva York
+La cantidad de horas durante las cuales el sol está por lo menos parcialmente sobre el horizonte.
+Probabilidad de condiciones bochornosas
+ene.
+feb.
+mar.
+abr.
+may.
+jun.
+jul.
+ago.
+sept.
+oct.
+nov.
+dic.
+0 %
+10 %
+20 %
+30 %
+40 %
+50 %
+60 %
+70 %
+80 %
+90 %
+100 %
+Ahora
+Ahora
+Toronto
+Toronto
+Nueva York
+Nueva York
+El porcentaje de tiempo en el que está bochornoso, opresivo o insoportable (es decir, un punto de rocío superior a 18 °C).
+Velocidad promedio del viento
+ene.
+feb.
+mar.
+abr.
+may.
+jun.
+jul.
+ago.
+sept.
+oct.
+nov.
+dic.
+0 km/h
+2 km/h
+4 km/h
+6 km/h
+8 km/h
+10 km/h
+12 km/h
+14 km/h
+16 km/h
+18 km/h
+20 km/h
+22 km/h
+24 km/h
+Ahora
+Ahora
+Toronto
+Toronto
+Nueva York
+Nueva York
+El promedio de las velocidades medias del viento por hora a 10 metros sobre la tierra.
+Puntuación de turismo
+ene.
+feb.
+mar.
+abr.
+may.
+jun.
+jul.
+ago.
+sept.
+oct.
+nov.
+dic.
+0
+2
+4
+6
+8
+10
+Ahora
+Ahora
+Toronto
+Toronto
+Nueva York
+Nueva York
+La puntuación de turismo, que favorece los días despejados y sin lluvia con temperaturas percibidas entre 18 °C y 27 °C.
+Puntuación de playa/piscina
+ene.
+feb.
+mar.
+abr.
+may.
+jun.
+jul.
+ago.
+sept.
+oct.
+nov.
+dic.
+0
+2
+4
+6
+8
+10
+Ahora
+Ahora
+Toronto
+Toronto
+Nueva York
+Nueva York
+La puntuación de playa/piscina, que favorece días despejados, sin lluvia, con temperaturas percibidas entre 24 °C y 32 °C.
+Periodo de cultivo
+ene.
+feb.
+mar.
+abr.
+may.
+jun.
+jul.
+ago.
+sept.
+oct.
+nov.
+dic.
+0 %
+20 %
+40 %
+60 %
+80 %
+100 %
+Ahora
+Ahora
+Toronto
+Toronto
+Nueva York
+Nueva York
+El porcentaje de probabilidad de que un día dado esté dentro del periodo de cultivo, que se define como el periodo continuo más largo de temperaturas no congeladas (≥0 °C) en el año (el año calendario en el hemisferio Norte, o del 1 de julio hasta el 30 de junio en el hemisferio Sur).
+Grados día de crecimiento
+ene.
+feb.
+mar.
+abr.
+may.
+jun.
+jul.
+ago.
+sept.
+oct.
+nov.
+dic.
+0 °C
+500 °C
+1.000 °C
+1.500 °C
+2.000 °C
+Ahora
+Ahora
+Toronto
+Toronto
+Nueva York
+Nueva York
+Los grados día de crecimiento promedio acumulados en el transcurso del año, donde los grados día de crecimiento se definen como la integral térmica por encima de una temperatura base (10 °C en este caso).
+Temperatura promedio del agua
+ene.
+feb.
+mar.
+abr.
+may.
+jun.
+jul.
+ago.
+sept.
+oct.
+nov.
+dic.
+0 °C
+5 °C
+10 °C
+15 °C
+20 °C
+25 °C
+Ahora
+Ahora
+Toronto
+Toronto
+Nueva York
+Nueva York
+La temperatura promedio diaria de la superficie del agua de una área amplia.
+Energía solar de onda corta incidente diaria promedio
+ene.
+feb.
+mar.
+abr.
+may.
+jun.
+jul.
+ago.
+sept.
+oct.
+nov.
+dic.
+0 kWh
+1 kWh
+2 kWh
+3 kWh
+4 kWh
+5 kWh
+6 kWh
+7 kWh
+Ahora
+Ahora
+Toronto
+Toronto
+Nueva York
+Nueva York
+La energía solar de onda corta promedio diaria que llega a la superficie terrestre por metro cuadrado.
+Fuentes de los datos
+Este informe ilustra el clima típico en Nueva York y Toronto, basado en análisis estadísticos de informes climatológicos históricos por hora y reconstrucciones de modelos del 1 de enero de 1980 al 31 de diciembre de 2016.
 
-East Village
-Este barrio está considerado como uno de los más alternativos de todo Manhattan, con un gran número de restaurantes veganos, estudios de yoga o de tatuaje, además de algunas pequeñas salas de teatro. A partir de la década de los 60 la zona se llenó de artistas atraídos por el ambiente de esta parte de la ciudad, y a día de hoy ha perdido algo de esta esencia, aunque sigue siendo un lugar más que interesante, especialmente animado durante las noches de los fines de semana.
+Los detalles de las fuentes de datos que se usaron en esta página varían entre lugares y se explican en detalle en la página dedicada para cada lugar:
 
-Little Italy
-Little Italy es un lugar ideal para un paseo a cualquier hora del día. Aunque la comunidad italiana que le da nombre ha ido menguando mucho con los años aún se conserva un buen número de restaurantes tradicionales italianos que, pese a lo elevado de los precios, merece la pena visitar. Cada mes de septiembre tiene lugar el famoso Festival de San Gennaro que llena las calles del barrio de puestos de comida y de gente con muchas ganas de celebración.
+Nueva York
+Toronto
+Descargo de responsabilidad
+La información de este sitio se proporciona tal cual, sin garantías sobre su veracidad o idoneidad para un fin en particular. Los datos climatológicos son propensos a errores, discrepancias y otros defectos. No asumimos responsabilidad alguna por decisiones tomadas en base al contenido de este sitio.
 
-Los amantes de las películas sobre la mafia encontrarán en estas calles el escenario de muchas obras de ficción, como la trilogía de El Padrino, sin ir más lejos. La zona se ha convertido en una gran atracción turística en los últimos años pero no deja de ser un lugar muy auténtico y agradable.
+Hacemos incapié cauteloso en que nos basamos en las reconstrucciones basadas en el modelo MERRA-2 para una variedad de importantes series de datos. Aunque tenemos las grandes ventajas de información espacial y temporal completa, estas reconstrucciones: (1) se basan en modelos informáticos que podrían tener errores en el modelo, (2) se muestrean a grandes rasgos en una cuadrícula de 50 km y, por lo tanto, no se pueden reconstruir con las variaciones locales de muchos microclimas y (3) tienen una dificultad particular con el clima en algunas áreas costeras, especialmente islas pequeñas.
 
-Chinatown
-Chinatown lleva ya tiempo comiéndole un poco el terreno a Little Italy. Entrar en estas calles es como aterrizar de pronto en otro continente: puestos de comida por todas partes, pescaderías con productos de lo más sorprendente y tiendas de frutas realmente exóticas. Como barrio en el que alojarnos, quizá no sea de los más tranquilos de la ciudad pero si buscamos un ambiente especial y animado bien podemos elegirlo para vivir una experiencia neoyorquina diferente.
+Se advierte además que nuestras puntuaciones de viaje solamente son tan buenas como los datos en los que se basan, que las condiciones del clima en una ubicación y un momento dados son impredecibles y variables y que la definición de las puntuaciones refleja un conjunto en particular de preferencias que quizás no estén de acuerdo con las de un lector en particular.
 
-BROOKLYN
-El barrio de Brooklyn ofrece una alternativa algo más relajada y menos agobiante, quizá, que Manhattan. Aquí encontramos a su vez diferentes zonas, como Williamsburg, con sus galerías de arte y cafés alternativos, o Redhook donde podemos encontrar alojamiento a precio razonable, además de un gran número de establecimientos gastronómicos y demás servicios de gran calidad. Coney Island, por su parte, transmite un aire nostálgico a antiguo resort marítimo, con su mítico parque de atracciones, el Luna Park.
+#Diferencia de horario
+Dentro de las dos ciudades, cuentan con el mismo horario, no tienen ninguna diferencia entre si.
 
-Y si se trata de dar un paseo en un entorno más verde, a falta de Central Park bueno es el Prospect Park, su equivalente a este lado del East River, con lo que no nos faltará entretenimiento en ningún momento.
+#Abrir un negocio en toronto Canada
+Antes de hablar de negocios es importante aclarar que una categoría está dirigida directamente a inversión y otra a creación de empresa, dos conceptos distintos en cuanto a inmigración a Canadá se refiere.
 
-QUEENS
-A pesar de estar situado en el centro geográfico de Nueva York, el barrio de Queens no cuenta con tanta fama como los de Manhattan y Brooklyn, lo cual no resta valor a una de las zonas con más historia de la ciudad. En el pasado fueron muchos los inmigrantes de origen griego o italiano que se instalaron en estas calles, aunque hoy en día la mezcla es mucho más diversa si cabe.
+Los programas de inversión son dos, uno a través de la provincia de Quebec donde el candidato debe tener un patrimonio mínimo de 1.6 millones de dólares y entregarle al gobierno, a través de un fondo de inversión, 800 mil dólares que le serán devueltos en 5 años sin intereses o hacer un pago de alrededor de 240 mil dólares que  no serán reembolsados.  El segundo programa es Federal y para este el patrimonio mínimo exigido es de 10 millones y la inversión requerida de 2 millones que serán puestos en un fondo de inversión de riesgo. El resultado de la inversión le será reembolsado al candidato después de 15 años.
 
-La zona de Astoria es también conocida como la “Pequeña Grecia”, por el importante legado de esta comunidad. La Greek Tavernas ofrece las mismas deliciosas recetas desde hace décadas y es un excelente lugar en el que saciar el apetito.
+En cuanto a los programas de negocios el Federal es conocido como “trabajadores independientes”. Este programa no tiene exigencia mínima de inversión pero si tiene una exigencia mínima de puntaje que debe obtenerse en una tabla de calificación, que si bien no es difícil alcanzar como requisito inicial, no garantiza tampoco que el candidato sea aprobado. Este programa es para candidatos que tienen experiencia como trabajadores independientes en el sector cultural o deportivo, que han sido deportistas o artistas de renombre internacional o que tienen experiencia en el manejo de haciendas (farms).
 
-Como lugar de esparcimiento cabe destacar un parque: el Flushing Meadows Corona Park, el segundo más grande de toda la ciudad.
+Casi todas las provincias y territorios tienen su propio programa de negocios.  Con excepción de Nunavut, que no tiene programa de nominación provincial, New Brunswick  que en este momento no está recibiendo solicitudes bajo la categoría de negocios y Newfoundland and Labrador, que no cuenta con categoría de negocios; todas las otras provincias cuentan con programas de negocios.
 
-BRONX
-El Bronx es el único de los cinco grandes barrios de Nueva York que forma parte físicamente del continente norteamericano. Los viajeros que llegan a la ciudad, cuando se acercan a este barrio suelen centrarse en dos de sus principales atracciones turísticas: el zoo y el estadio de los New York Yankees, pero lo cierto es que hay muchos otros lugares interesantes, como el Botanic Garden, con su excelente colección de plantas y flores exóticas. Los amantes del arte también encontrarán su entretenimiento en lugares como el Bronx Museum of the Arts, centrados en obras de artistas locales.
+Aunque cada provincia tiene unos requisitos específicos de patrimonio e inversión para su programa de negocios, hay requisitos comunes para todos, como son el tener experiencia como dueño de empresa o como gerente de alto nivel en una empresa, que el patrimonio haya sido legalmente adquirido y que el candidato se encuentre viviendo de manera legal en el país donde reside. Siendo estos programas de nominación provincial, todos exigen de una u otra forma que el candidato que sea seleccionado se radique en la provincia que lo seleccionó  e inicie allí su negocio que debe cumplir con ciertos requisitos de creación de empleo para residentes o ciudadanos canadienses. Casi todas las provincias esperan que el candidato a nominación a través del programa de negocios llegue primero a la provincia bajo un permiso de trabajo y monte el negocio antes de dar la nominación provincial y ésto únicamente si el candidato ha cumplido, en los tiempos estipulados, con los acuerdos a los que se llegó con la provincia basados en el plan de negocios presentado por el candidato.
 
-STATEN ISLAND
-Todos los días son miles los turistas que llegan a Nueva York lo hacen a través de la terminal portuaria de Staten Island, con las magníficas vistas hacia la imponente Estatua de la Libertad. A decir verdad, la mayoría de estos visitantes conectan nada más desembarcar con el barco rumbo a Manhattan, pero ello no quita que Staten Island cuente con sus propios encantos. Aquellos que se animen a explorar esta parte de la ciudad encontrarán un ambiente diferente, mucho más relajado y con una población menor de la que vemos en los otros barrios. Aquí podemos también visitar la Conference House, museo que ilustra sobre la Revolución Americana.
+Los montos de patrimonio e inversión varían dependiendo de la provincia.  Los requisitos más bajos de patrimonio e inversión los tiene Northwest Territories bajo la categoría de negocios que se montaran fuera de la región Corporativa de Yellowknife.  Los requisitos en esta categoría son de $250,000 de patrimonio y $150,000 de inversión.
+
+Bajo los programas de nominación provincial es común encontrar tipos de negocios que no son permitidos, por lo que es importante verificar estas listas antes de iniciar cualquier tipo de proceso.  Igualmente la gran mayoría de las provincias requieren que el candidato haga una visita exploratoria antes de presentar su proyecto.
+
+Los tratados de libre comercio con México, USA, Chile, Colombia y Perú también cuentan con provisiones para inversionistas o comerciantes.  El requisito principal es que el intercambio de bienes y servicios se haga entre los dos países (Canadá y el país del tratado a través del que se está haciendo la solicitud) y que haya una relación directa entre la compañía en Canadá y el país signatario del tratado.  Los montos de inversión no están definidos y aunque pueden ser de cualquier cantidad, la inversión tiene que ser significativa.  La diferencia entre los programas de inversión y de negocios a través de nominación provincial y los de los tratados de libre comercio es que las nominaciones y los programas de inversión conducen a residencia permanente, mientras que los programas a través de tratados de libre comercio, si bien son un paso, no garantizan la obtención de la residencia permanente.
+
+Los programas de negocios son definitivamente una muy buena opción para quienes tienen experiencia como empresarios o en altos cargos gerenciales.  Las posibilidades son amplias y vale la pena explorarlas.
+
+#Emprender una oficinia en New York
+El historiador James Truslow Adams expresó en 1931 por primera vez el famoso concepto The American Dream (el sueño americano). Desde entonces, la posibilidad de alcanzar el éxito bajo las mismas oportunidades que cualquier ciudadano americano ha inundado la cabeza de millones de inmigrantes. Aunque bien es cierto que, de una forma estricta, esa idea había comenzado ya a inculcarse en los pioneros ingleses de los siglos XVI y XVII, con el fin de poblar las colonias británicas de América del Norte.
+
+Apareciese cuando apareciese el concepto, en la actualidad ha perdido valor. ¿La razón? Cada vez son más los inmigrantes que han fracasado en su intento de lograr una posición destacada en EE UU por no contar con las mismas oportunidades que los ciudadanos nativos. Aun así, triunfar en el país es posible. Eso sí, emprender un negocio propio es, en muchas ocasiones, más viable que a través de un contrato.
+
+“Conseguir un visado de trabajo es extremadamente difícil; si emprendes tu propio proyecto, los trámites son más factibles porque el Gobierno entiende que eres tú mismo el que estás generando tu puesto laboral”, explica Paz Sintes, barcelonesa, diseñadora y cabeza de la firma de joyería homónima. Sus piezas, confeccionadas en tela de gran calidad, son consideradas obras de arte en Estados Unidos y han logrado cautivar hasta a la reina Letizia. No obstante, para conseguir triunfar, como dice Sintes, es necesario dejarse la piel. “Al principio, te matas; y realmente nunca llegas a relajarte porque, si lo haces, te arriesgas a perder lo conseguido en muy poco tiempo. Pero si tienes una pasión clara y crees en lo que haces, es posible”, comenta.
+
+¿Por qué hacerlo en Nueva York? Armando Prados, consejero delegado del grupo de spa Aire Ancient Baths, lo tiene claro: “Es la primera ciudad del mundo. Si consigues triunfar, tienes la certeza de que podrás hacerlo en cualquier lugar del mundo porque la difusión que te aporta es enorme”. Sin embargo, como apunta Prados, llegar a montar un negocio no es tarea fácil. “Si intentas hacerlo a la manera española, fracasarás; tienes que cambiar la mentalidad completamente y, ante todo, contar con asesoramiento profesional. Es un servicio caro, pero, al final, te sale barato”, asegura contundente el empresario. Para su grupo, obtener permisos es uno de los trámites más complicados. “Exigen licencias para todo. Entre nuestros servicios ofrecemos un baño de vino que viene acompañado de una copa y, para ello, tuvimos que solicitar una autorización de alcohol. ¡Tuve que informar hasta del color de ojos de mi mujer!”, exclama. Otros de los inconvenientes que menciona es la gran rotación de personal: “En España formas a tus empleados y tienes casi la seguridad de que estarán contigo una media de dos años; en Nueva York se pueden marchar a los 15 días”.
+
+Para montar una empresa en Nueva York, como en cualquier parte del mundo, es primordial escribir un plan de negocios, elegir la ubicación y pedir financiación, sugiere la Cámara de Comercio de España en Nueva York. Después, definir su estructura legal y registrar su nombre comercial. Tras ello, deberá solicitar un número de identificación fiscal, la compensación de trabajador, seguros por desempleo y por incapacidad. En general, pedir todas licencias necesarias según el tipo de negocio. Y es fundamental entender las responsabilidades que tendrá como empresario y empleador.
+
+Otro caso destacable es el del cocinero Lolo Manso. Cuenta con tres restaurantes en Manhattan: los Socarrats y La Churrería. Manso no duda en animar a otros cocineros a abrir su negocio en la ciudad: “Si tienes confianza en tu producto, siempre hay hueco para el éxito. Aquí hay sitio para todos si se siguen tres normas: trabajo, trabajo y trabajo”. El empresario no deja pasar la oportunidad de mandar un mensaje a los políticos españoles: “Si quieren que la marca España triunfe, deben hacerlo a través de su gastronomía. Abrir escuelas de cocina por el mundo es una medida que daría a conocer nuestro producto y nuestro país”, finaliza.
+
+#FORMAS JURÍDICAS DE LAS EMPRESAS EN EE UU
+En EE UU existen cuatro tipos de empresas, que a su vez pueden contener diferentes variaciones, según la Cámara de Comercio de España en dicho país.
+
+Propiedad única. Exige pocos requisitos. El propietario asume toda la responsabilidad financiera y operativa. Los activos de la persona están ligados a los de la compañía, por lo que el propietario asume todos los riesgos.
+
+Corporación. Son entidades independientes de sus propietarios. Los accionistas están protegidos de las obligaciones y responsabilidades generadas por la empresa. A nivel fiscal, hay dos tipos: C y S. Las C son responsabilidad de la compañía, mientras que las S no tienen obligaciones impositivas.
+
+Sociedad de responsabilidad limitada. Combinación de corporación y sociedad limitada. Los propietarios controlan acciones y su responsabilidad por las operaciones de la empresa depende del porcentaje de títulos que controlen. Los impuestos recaen de forma individual sobre los accionistas.
+
+Sociedad limitada. Formada por dos personas o entidades para poseer y gestionar la empresa. Los socios comparten beneficios, pérdidas y la gestión de la firma. Los impuestos son también responsabilidad individual de los socios.
