@@ -1,614 +1,132 @@
-Diferencia entre Toronto y New York
+Difference between Toronto and New York
 
-##Problematica
+## Problematic
 
-Se hara una comparacion sobre estas dos ciudades, dond ese veran los horarios, sus tiempos (climas), La situacion, entorno, calidad de vida, entre otros.
-Al final se hace un diagnostico para poder emprender un negocio o/y empresa en alguna de estas ciudades.
+A comparison will be made about these two cities, where they will see the schedules, their times (climates), the situation, environment, quality of life, among others.
+At the end a diagnosis is made in order to start a business or / and company in one of these cities.
 
-#Probabilidad de cielo más despejado
-El porcentaje del tiempo en que el cielo está despejado, mayormente despejado o parcialmente nublado (es decir, menos del 60 % el cielo está cubierto de nubes).
-- New York   50%
-- Toronto    40%
+#Clear Chance
+The percentage of time the sky is clear, mostly clear, or partly cloudy (that is, less than 60% the sky is covered in clouds).
+- New York 50%
+- Toronto 40%
 
-#Probabilidad diaria de precipitación
-El porcentaje de días en los cuales se observó precipitación, excluidas las cantidades insignificantes.
-- New York   25%
-- Toronto    20%
+#Daily chance of precipitation
+The percentage of days on which precipitation was observed, excluding insignificant amounts.
+- New York 25%
+- Toronto 20%
 
-#Precipitación de lluvia mensual promedio
-El promedio de lluvia acumulado durante un periodo de 31 días centrado en el día en cuestión
-- New York   75mm
-- Toronto    19mm
+# Average monthly rainfall
+The average rainfall accumulated over a 31-day period centered on the day in question
+- New York 75mm
+- Toronto 19mm
 
-#Precipitación de nieve mensual promedio
-La precipitación promedio en nieve acumulada en equivalente a líquido durante un período de 31 días centrado en el día en cuestión.
-- New York   12mm
-- Toronto    8mm
+# Average monthly snowfall
+The average accumulated snowfall in liquid equivalent over a 31-day period centered on the day in question.
+- New York 12mm
+- Toronto 8mm
 
-#Horas de luz natural
-La cantidad de horas durante las cuales el sol está por lo menos parcialmente sobre el horizonte.
-- New York   10 hr
-- Toronto    9 hr
+#Hours of natural light
+The number of hours during which the sun is at least partially above the horizon.
+- New York 10 hr
+- Toronto 9 hr
 
-#Probabilidad de condiciones bochornosas
-El porcentaje de tiempo en el que está bochornoso, opresivo o insoportable (es decir, un punto de rocío superior a 18 °C).
-- New York   53%
-- Toronto    28%
+#Probability of muggy conditions
+The percentage of time that it is muggy, oppressive, or excruciating (that is, a dew point above 18 ° C).
+- New York 53%
+- Toronto 28%
 
-#Velocidad promedio del viento
-El promedio de las velocidades medias del viento por hora a 10 metros sobre la tierra.
-- New York   16 km/h
-- Toronto    23 km/h
+#Average wind speed
+The average hourly average wind speed 10 meters above the ground.
+- New York 16 km / h
+- Toronto 23 km / h
 
-#Puntuación de turismo
-La puntuación de turismo, que favorece los días despejados y sin lluvia con temperaturas percibidas entre 18 °C y 27 °C.
-- New York   6
-- Toronto    7
+# Tourism score
+The tourism score, which favors clear and rainless days with perceived temperatures between 18 ° C and 27 ° C.
+- New York 6
+- Toronto 7
 
-#Puntuación de playa/piscina
-La puntuación de playa/piscina, que favorece días despejados, sin lluvia, con temperaturas percibidas entre 24 °C y 32 °C.
-- New York   6.2
-- Toronto    5
+# Pool / Beach Score
+The beach / pool score, which favors clear days, without rain, with temperatures perceived between 24 ° C and 32 ° C.
+- New York 6.2
+- Toronto 5
 
-#Periodo de cultivo
-El porcentaje de probabilidad de que un día dado esté dentro del periodo de cultivo, que se define como el periodo continuo más largo de temperaturas no congeladas (≥0 °C) en el año (el año calendario en el hemisferio Norte, o del 1 de julio hasta el 30 de junio en el hemisferio Sur).
-- New York   100%
-- Toronto    100%
+#Crop period
+The percentage probability that a given day is within the growing period, defined as the longest continuous period of non-frozen temperatures (≥0 ° C) in the year (the calendar year in the Northern Hemisphere, or 1 July to June 30 in the southern hemisphere).
+- New York 100%
+- Toronto 100%
 
-#Grados día de crecimiento
-Los grados día de crecimiento promedio acumulados en el transcurso del año, donde los grados día de crecimiento se definen como la integral térmica por encima de una temperatura base (10 °C en este caso).
-- New York   2100 °C
-- Toronto    1450 °C
+#Degrees growth day
+The average degree of growth days accumulated during the year, where the degree of growth days are defined as the thermal integral above a base temperature (10 ° C in this case).
+- New York 2100 ° C
+- Toronto 1450 ° C
 
-#Temperatura promedio del agua
-La temperatura promedio diaria de la superficie del agua de una área amplia.
-- New York   23 °C
-- Toronto    21 °C
+#Average water temperature
+The average daily temperature of the water surface over a wide area.
+- New York 23 ° C
+- Toronto 21 ° C
 
-#Energía solar de onda corta incidente diaria promedio
-La energía solar de onda corta promedio diaria que llega a la superficie terrestre por metro cuadrado.
-- New York   6 kWh
-- Toronto    7 kWh
+# Average daily incident shortwave solar energy
+The average daily shortwave solar energy reaching the Earth's surface per square meter.
+- New York 6 kWh
+- Toronto 7 kWh
 
+## Data sources
+This report illustrates the typical weather in New York and Toronto, based on statistical analyzes of historical hourly weather reports and model reconstructions from January 1, 1980 to December 31, 2016.
 
-Comparación del tiempo promedio en Nueva York y Toronto
- Nueva York
-Nueva York, Estados Unidos
- Toronto
-Canadá
- 
-Agregar una ciudad o aeropuerto
+The details of the data sources used on this page vary between locations and are explained in detail on the dedicated page for each location:
 
- 
-Temperatura máxima y mínima promedio
-ene.
-feb.
-mar.
-abr.
-may.
-jun.
-jul.
-ago.
-sept.
-oct.
-nov.
-dic.
--10 °C
--5 °C
-0 °C
-5 °C
-10 °C
-15 °C
-20 °C
-25 °C
-30 °C
-Ahora
-Ahora
+NY
 Toronto
-Toronto
-Nueva York
-Nueva York
-La temperatura promedio diaria del aire a 2 metros sobre la tierra.2 metros
-Nueva York
-ene.
-feb.
-mar.
-abr.
-may.
-jun.
-jul.
-ago.
-sept.
-oct.
-nov.
-dic.
-0
-4
-8
-12
-16
-20
-0
-Ahora
-Ahora
-helada
-muy fría
-fría
-fría
-cómoda
-caliente
-fresca
-fresca
-muy fría
-Toronto
-ene.
-feb.
-mar.
-abr.
-may.
-jun.
-jul.
-ago.
-sept.
-oct.
-nov.
-dic.
-0
-4
-8
-12
-16
-20
-0
-Ahora
-Ahora
-helada
-muy fría
-fría
-fría
-fresca
-cómoda
-muy fría
-helada
-caliente
-cómoda
-frígida
--9 °C
-helada
-0 °C
-muy fría
-7 °C
-fría
-13 °C
-fresca
-18 °C
-cómoda
-24 °C
-caliente
-29 °C
-muy caliente
-35 °C
-tórrida
-La temperatura promedio por hora, codificada por colores en bandas. Las áreas sombreadas superpuestas indican la noche y el crepúsculo civil.
 
- 
-Probabilidad de cielo más despejado
-ene.
-feb.
-mar.
-abr.
-may.
-jun.
-jul.
-ago.
-sept.
-oct.
-nov.
-dic.
-0 %
-10 %
-20 %
-30 %
-40 %
-50 %
-60 %
-70 %
-80 %
-90 %
-100 %
-Ahora
-Ahora
-Toronto
-Toronto
-Nueva York
-Nueva York
-El porcentaje del tiempo en que el cielo está despejado, mayormente despejado o parcialmente nublado (es decir, menos del 60 % el cielo está cubierto de nubes).
-Probabilidad diaria de precipitación
-ene.
-feb.
-mar.
-abr.
-may.
-jun.
-jul.
-ago.
-sept.
-oct.
-nov.
-dic.
-0 %
-10 %
-20 %
-30 %
-40 %
-50 %
-60 %
-70 %
-80 %
-90 %
-100 %
-Ahora
-Ahora
-Toronto
-Toronto
-Nueva York
-Nueva York
-El porcentaje de días en los cuales se observó precipitación, excluidas las cantidades insignificantes.
+## Disclaimer
+The information on this site is provided as is, with no guarantees as to its accuracy or suitability for a particular purpose. Weather data is prone to errors, discrepancies, and other defects. We assume no responsibility for decisions made based on the content of this site.
 
- 
-Precipitación de lluvia mensual promedio
-ene.
-feb.
-mar.
-abr.
-may.
-jun.
-jul.
-ago.
-sept.
-oct.
-nov.
-dic.
-20 mm
-40 mm
-60 mm
-80 mm
-100 mm
-Ahora
-Ahora
-Toronto
-Toronto
-Nueva York
-Nueva York
-El promedio de lluvia acumulado durante un periodo de 31 días centrado en el día en cuestión
-Precipitación de nieve mensual promedio
-ene.
-feb.
-mar.
-abr.
-may.
-jun.
-jul.
-ago.
-sept.
-oct.
-nov.
-dic.
-0 mm
-5 mm
-10 mm
-15 mm
-Ahora
-Ahora
-Toronto
-Toronto
-Nueva York
-Nueva York
-La precipitación promedio en nieve acumulada en equivalente a líquido durante un período de 31 días centrado en el día en cuestión.
-Horas de luz natural
-ene.
-feb.
-mar.
-abr.
-may.
-jun.
-jul.
-ago.
-sept.
-oct.
-nov.
-dic.
-0 h
-4 h
-8 h
-12 h
-16 h
-20 h
-24 h
-Ahora
-Ahora
-Toronto
-Toronto
-Nueva York
-Nueva York
-La cantidad de horas durante las cuales el sol está por lo menos parcialmente sobre el horizonte.
-Probabilidad de condiciones bochornosas
-ene.
-feb.
-mar.
-abr.
-may.
-jun.
-jul.
-ago.
-sept.
-oct.
-nov.
-dic.
-0 %
-10 %
-20 %
-30 %
-40 %
-50 %
-60 %
-70 %
-80 %
-90 %
-100 %
-Ahora
-Ahora
-Toronto
-Toronto
-Nueva York
-Nueva York
-El porcentaje de tiempo en el que está bochornoso, opresivo o insoportable (es decir, un punto de rocío superior a 18 °C).
-Velocidad promedio del viento
-ene.
-feb.
-mar.
-abr.
-may.
-jun.
-jul.
-ago.
-sept.
-oct.
-nov.
-dic.
-0 km/h
-2 km/h
-4 km/h
-6 km/h
-8 km/h
-10 km/h
-12 km/h
-14 km/h
-16 km/h
-18 km/h
-20 km/h
-22 km/h
-24 km/h
-Ahora
-Ahora
-Toronto
-Toronto
-Nueva York
-Nueva York
-El promedio de las velocidades medias del viento por hora a 10 metros sobre la tierra.
-Puntuación de turismo
-ene.
-feb.
-mar.
-abr.
-may.
-jun.
-jul.
-ago.
-sept.
-oct.
-nov.
-dic.
-0
-2
-4
-6
-8
-10
-Ahora
-Ahora
-Toronto
-Toronto
-Nueva York
-Nueva York
-La puntuación de turismo, que favorece los días despejados y sin lluvia con temperaturas percibidas entre 18 °C y 27 °C.
-Puntuación de playa/piscina
-ene.
-feb.
-mar.
-abr.
-may.
-jun.
-jul.
-ago.
-sept.
-oct.
-nov.
-dic.
-0
-2
-4
-6
-8
-10
-Ahora
-Ahora
-Toronto
-Toronto
-Nueva York
-Nueva York
-La puntuación de playa/piscina, que favorece días despejados, sin lluvia, con temperaturas percibidas entre 24 °C y 32 °C.
-Periodo de cultivo
-ene.
-feb.
-mar.
-abr.
-may.
-jun.
-jul.
-ago.
-sept.
-oct.
-nov.
-dic.
-0 %
-20 %
-40 %
-60 %
-80 %
-100 %
-Ahora
-Ahora
-Toronto
-Toronto
-Nueva York
-Nueva York
-El porcentaje de probabilidad de que un día dado esté dentro del periodo de cultivo, que se define como el periodo continuo más largo de temperaturas no congeladas (≥0 °C) en el año (el año calendario en el hemisferio Norte, o del 1 de julio hasta el 30 de junio en el hemisferio Sur).
-Grados día de crecimiento
-ene.
-feb.
-mar.
-abr.
-may.
-jun.
-jul.
-ago.
-sept.
-oct.
-nov.
-dic.
-0 °C
-500 °C
-1.000 °C
-1.500 °C
-2.000 °C
-Ahora
-Ahora
-Toronto
-Toronto
-Nueva York
-Nueva York
-Los grados día de crecimiento promedio acumulados en el transcurso del año, donde los grados día de crecimiento se definen como la integral térmica por encima de una temperatura base (10 °C en este caso).
-Temperatura promedio del agua
-ene.
-feb.
-mar.
-abr.
-may.
-jun.
-jul.
-ago.
-sept.
-oct.
-nov.
-dic.
-0 °C
-5 °C
-10 °C
-15 °C
-20 °C
-25 °C
-Ahora
-Ahora
-Toronto
-Toronto
-Nueva York
-Nueva York
-La temperatura promedio diaria de la superficie del agua de una área amplia.
-Energía solar de onda corta incidente diaria promedio
-ene.
-feb.
-mar.
-abr.
-may.
-jun.
-jul.
-ago.
-sept.
-oct.
-nov.
-dic.
-0 kWh
-1 kWh
-2 kWh
-3 kWh
-4 kWh
-5 kWh
-6 kWh
-7 kWh
-Ahora
-Ahora
-Toronto
-Toronto
-Nueva York
-Nueva York
-La energía solar de onda corta promedio diaria que llega a la superficie terrestre por metro cuadrado.
-Fuentes de los datos
-Este informe ilustra el clima típico en Nueva York y Toronto, basado en análisis estadísticos de informes climatológicos históricos por hora y reconstrucciones de modelos del 1 de enero de 1980 al 31 de diciembre de 2016.
+We cautiously emphasize that we rely on reconstructions based on the MERRA-2 model for a variety of important data series. Although we have the great advantages of complete spatial and temporal information, these reconstructions: (1) are based on computer models that could have model errors, (2) are roughly sampled on a 50 km grid, and therefore , cannot be reconstructed with the local variations of many microclimates and (3) have a particular difficulty with the climate in some coastal areas, especially small islands.
 
-Los detalles de las fuentes de datos que se usaron en esta página varían entre lugares y se explican en detalle en la página dedicada para cada lugar:
+It is further noted that our travel scores are only as good as the data on which they are based, that the weather conditions at a given location and time are unpredictable and variable, and that the definition of the scores reflects a particular set of preferences that may not agree with those of a particular reader.
 
-Nueva York
-Toronto
-Descargo de responsabilidad
-La información de este sitio se proporciona tal cual, sin garantías sobre su veracidad o idoneidad para un fin en particular. Los datos climatológicos son propensos a errores, discrepancias y otros defectos. No asumimos responsabilidad alguna por decisiones tomadas en base al contenido de este sitio.
+#Time difference
+Within the two cities, they have the same hours, they have no difference between them.
 
-Hacemos incapié cauteloso en que nos basamos en las reconstrucciones basadas en el modelo MERRA-2 para una variedad de importantes series de datos. Aunque tenemos las grandes ventajas de información espacial y temporal completa, estas reconstrucciones: (1) se basan en modelos informáticos que podrían tener errores en el modelo, (2) se muestrean a grandes rasgos en una cuadrícula de 50 km y, por lo tanto, no se pueden reconstruir con las variaciones locales de muchos microclimas y (3) tienen una dificultad particular con el clima en algunas áreas costeras, especialmente islas pequeñas.
+#Open a business in Toronto Canada
+Before talking about business, it is important to clarify that one category is aimed directly at investment and another at company creation, two different concepts regarding immigration to Canada.
 
-Se advierte además que nuestras puntuaciones de viaje solamente son tan buenas como los datos en los que se basan, que las condiciones del clima en una ubicación y un momento dados son impredecibles y variables y que la definición de las puntuaciones refleja un conjunto en particular de preferencias que quizás no estén de acuerdo con las de un lector en particular.
+There are two investment programs, one through the province of Quebec where the candidate must have a minimum wealth of 1.6 million dollars and deliver to the government, through an investment fund, 800 thousand dollars that will be returned to him in 5 years without interest or making a payment of around $ 240,000 that will not be refunded. The second program is Federal and for this the minimum required equity is 10 million and the required investment is 2 million that will be placed in a risk investment fund. The result of the investment will be reimbursed to the candidate after 15 years.
 
-#Diferencia de horario
-Dentro de las dos ciudades, cuentan con el mismo horario, no tienen ninguna diferencia entre si.
+Regarding business programs, the Federal is known as “independent workers”. This program does not have a minimum investment requirement, but it does have a minimum score requirement that must be obtained in a qualification table, which, although it is not difficult to achieve as an initial requirement, does not guarantee that the candidate will be approved. This program is for candidates who have experience as freelancers in the cultural or sports sector, who have been internationally renowned athletes or artists, or who have experience managing farms.
 
-#Abrir un negocio en toronto Canada
-Antes de hablar de negocios es importante aclarar que una categoría está dirigida directamente a inversión y otra a creación de empresa, dos conceptos distintos en cuanto a inmigración a Canadá se refiere.
+Almost all provinces and territories have their own business program. With the exception of Nunavut, which has no provincial nomination program, New Brunswick which is currently not receiving applications under the business category, and Newfoundland and Labrador, which does not have a business category; all the other provinces have business programs.
 
-Los programas de inversión son dos, uno a través de la provincia de Quebec donde el candidato debe tener un patrimonio mínimo de 1.6 millones de dólares y entregarle al gobierno, a través de un fondo de inversión, 800 mil dólares que le serán devueltos en 5 años sin intereses o hacer un pago de alrededor de 240 mil dólares que  no serán reembolsados.  El segundo programa es Federal y para este el patrimonio mínimo exigido es de 10 millones y la inversión requerida de 2 millones que serán puestos en un fondo de inversión de riesgo. El resultado de la inversión le será reembolsado al candidato después de 15 años.
+Although each province has specific equity and investment requirements for its business program, there are common requirements for all, such as having experience as a business owner or as a senior manager in a company, that the heritage has been legally acquired and that the candidate is living legally in the country where he resides. As these are provincial nomination programs, they all in one way or another require that the candidate who is selected reside in the province that selected them and start their business there that must meet certain job creation requirements for Canadian residents or citizens. Almost all provinces expect that the candidate for nomination through the business program will first come to the province under a work permit and set up the business before giving the provincial nomination, and this only if the candidate has fulfilled, in the stipulated times, with the agreements reached with the province based on the business plan presented by the candidate.
 
-En cuanto a los programas de negocios el Federal es conocido como “trabajadores independientes”. Este programa no tiene exigencia mínima de inversión pero si tiene una exigencia mínima de puntaje que debe obtenerse en una tabla de calificación, que si bien no es difícil alcanzar como requisito inicial, no garantiza tampoco que el candidato sea aprobado. Este programa es para candidatos que tienen experiencia como trabajadores independientes en el sector cultural o deportivo, que han sido deportistas o artistas de renombre internacional o que tienen experiencia en el manejo de haciendas (farms).
+The amounts of patrimony and investment vary depending on the province. The lowest equity and investment requirements are held by Northwest Territories under the category of businesses that will be established outside the Corporate Yellowknife region. The requirements in this category are $ 250,000 of equity and $ 150,000 of investment.
 
-Casi todas las provincias y territorios tienen su propio programa de negocios.  Con excepción de Nunavut, que no tiene programa de nominación provincial, New Brunswick  que en este momento no está recibiendo solicitudes bajo la categoría de negocios y Newfoundland and Labrador, que no cuenta con categoría de negocios; todas las otras provincias cuentan con programas de negocios.
+Under provincial nomination programs, it is common to find types of businesses that are not allowed, so it is important to check these lists before starting any type of process. Likewise, the vast majority of provinces require the candidate to make an exploratory visit before presenting their project.
 
-Aunque cada provincia tiene unos requisitos específicos de patrimonio e inversión para su programa de negocios, hay requisitos comunes para todos, como son el tener experiencia como dueño de empresa o como gerente de alto nivel en una empresa, que el patrimonio haya sido legalmente adquirido y que el candidato se encuentre viviendo de manera legal en el país donde reside. Siendo estos programas de nominación provincial, todos exigen de una u otra forma que el candidato que sea seleccionado se radique en la provincia que lo seleccionó  e inicie allí su negocio que debe cumplir con ciertos requisitos de creación de empleo para residentes o ciudadanos canadienses. Casi todas las provincias esperan que el candidato a nominación a través del programa de negocios llegue primero a la provincia bajo un permiso de trabajo y monte el negocio antes de dar la nominación provincial y ésto únicamente si el candidato ha cumplido, en los tiempos estipulados, con los acuerdos a los que se llegó con la provincia basados en el plan de negocios presentado por el candidato.
+Free trade agreements with Mexico, USA, Chile, Colombia and Peru also have provisions for investors or merchants. The main requirement is that the exchange of goods and services is made between the two countries (Canada and the treaty country through which the request is being made) and that there is a direct relationship between the company in Canada and the signatory country of the treaty. The investment amounts are not defined and although they can be of any amount, the investment must be significant. The difference between investment and business programs through provincial nomination and those of free trade agreements is that nominations and investment programs lead to permanent residence, while programs through free trade agreements, if well they are a step, they do not guarantee the obtaining of the permanent residence.
 
-Los montos de patrimonio e inversión varían dependiendo de la provincia.  Los requisitos más bajos de patrimonio e inversión los tiene Northwest Territories bajo la categoría de negocios que se montaran fuera de la región Corporativa de Yellowknife.  Los requisitos en esta categoría son de $250,000 de patrimonio y $150,000 de inversión.
+Business programs are definitely a very good option for those with experience as entrepreneurs or in senior management positions. The possibilities are vast and worth exploring.
 
-Bajo los programas de nominación provincial es común encontrar tipos de negocios que no son permitidos, por lo que es importante verificar estas listas antes de iniciar cualquier tipo de proceso.  Igualmente la gran mayoría de las provincias requieren que el candidato haga una visita exploratoria antes de presentar su proyecto.
+#Start an office in New York
+Historian James Truslow Adams first expressed the famous concept The American Dream in 1931. Since then, the prospect of success under the same opportunities as any American citizen has flooded the heads of millions of immigrants. Although it is true that, strictly speaking, this idea had already begun to be instilled in the English pioneers of the 16th and 17th centuries, in order to populate the British colonies of North America.
 
-Los tratados de libre comercio con México, USA, Chile, Colombia y Perú también cuentan con provisiones para inversionistas o comerciantes.  El requisito principal es que el intercambio de bienes y servicios se haga entre los dos países (Canadá y el país del tratado a través del que se está haciendo la solicitud) y que haya una relación directa entre la compañía en Canadá y el país signatario del tratado.  Los montos de inversión no están definidos y aunque pueden ser de cualquier cantidad, la inversión tiene que ser significativa.  La diferencia entre los programas de inversión y de negocios a través de nominación provincial y los de los tratados de libre comercio es que las nominaciones y los programas de inversión conducen a residencia permanente, mientras que los programas a través de tratados de libre comercio, si bien son un paso, no garantizan la obtención de la residencia permanente.
+It appeared when the concept appeared, nowadays it has lost value. The reason? More and more immigrants have failed in their attempt to achieve a prominent position in the United States for not having the same opportunities as native citizens. Still, succeeding in the country is possible. Of course, starting your own business is, on many occasions, more viable than through a contract.
 
-Los programas de negocios son definitivamente una muy buena opción para quienes tienen experiencia como empresarios o en altos cargos gerenciales.  Las posibilidades son amplias y vale la pena explorarlas.
+“Getting a work visa is extremely difficult; if you start your own project, the procedures are more feasible because the Government understands that you are the one generating your job position ”, explains Paz Sintes, from Barcelona, ​​designer and head of the eponymous jewelry firm. Her pieces, made of high-quality fabric, are considered works of art in the United States and have even captivated Queen Letizia. However, to succeed, as Sintes says, you need to leave your skin. “At first, you kill yourself; And you never really relax, because if you do, you risk losing what you have achieved in a very short time. But if you have a clear passion and believe in what you do, it is possible ”, he comments.
 
-#Emprender una oficinia en New York
-El historiador James Truslow Adams expresó en 1931 por primera vez el famoso concepto The American Dream (el sueño americano). Desde entonces, la posibilidad de alcanzar el éxito bajo las mismas oportunidades que cualquier ciudadano americano ha inundado la cabeza de millones de inmigrantes. Aunque bien es cierto que, de una forma estricta, esa idea había comenzado ya a inculcarse en los pioneros ingleses de los siglos XVI y XVII, con el fin de poblar las colonias británicas de América del Norte.
+Why do it in New York? Armando Prados, CEO of the Aire Ancient Baths spa group, is clear: “It is the first city in the world. If you manage to succeed, you have the certainty that you will be able to do it anywhere in the world because the diffusion it brings you is enormous ”. However, as Prados points out, getting to start a business is not an easy task. “If you try to do it the Spanish way, you will fail; You have to completely change your mindset and, above all, have professional advice. It is an expensive service, but, in the end, it comes out cheap, ”says the businessman forcefully. Obtaining permits is one of the most complicated procedures for your group. “They demand licenses for everything. Among our services we offer a wine bath that is accompanied by a glass and, for this, we had to request an alcohol authorization. I even had to report my wife's eye color! ”He exclaims. Other drawbacks he mentions are the high turnover of personnel: “In Spain you train your employees and you are almost certain that they will be with you for an average of two years; in New York they can leave after 15 days ”.
 
-Apareciese cuando apareciese el concepto, en la actualidad ha perdido valor. ¿La razón? Cada vez son más los inmigrantes que han fracasado en su intento de lograr una posición destacada en EE UU por no contar con las mismas oportunidades que los ciudadanos nativos. Aun así, triunfar en el país es posible. Eso sí, emprender un negocio propio es, en muchas ocasiones, más viable que a través de un contrato.
+To start a business in New York, as in any part of the world, it is essential to write a business plan, choose the location and request financing, suggests the Spanish Chamber of Commerce in New York. Then define your legal structure and register your business name. After that, you will need to apply for a tax identification number, worker's compensation, unemployment and disability insurance. In general, ask for all necessary licenses depending on the type of business. And it is essential to understand the responsibilities that you will have as an employer and employer.
 
-“Conseguir un visado de trabajo es extremadamente difícil; si emprendes tu propio proyecto, los trámites son más factibles porque el Gobierno entiende que eres tú mismo el que estás generando tu puesto laboral”, explica Paz Sintes, barcelonesa, diseñadora y cabeza de la firma de joyería homónima. Sus piezas, confeccionadas en tela de gran calidad, son consideradas obras de arte en Estados Unidos y han logrado cautivar hasta a la reina Letizia. No obstante, para conseguir triunfar, como dice Sintes, es necesario dejarse la piel. “Al principio, te matas; y realmente nunca llegas a relajarte porque, si lo haces, te arriesgas a perder lo conseguido en muy poco tiempo. Pero si tienes una pasión clara y crees en lo que haces, es posible”, comenta.
+Another notable case is that of the cook Lolo Manso. It has three restaurants in Manhattan: the Socarrats and La Churrería. Manso does not hesitate to encourage other chefs to open their business in the city: “If you have confidence in your product, there is always room for success. There is room for everyone here if three rules are followed: work, work and work ”. The businessman does not miss the opportunity to send a message to Spanish politicians: “If they want the Spain brand to succeed, they must do so through its gastronomy. Opening cooking schools around the world is a measure that would make our product and our country known ”, he concludes.
 
-¿Por qué hacerlo en Nueva York? Armando Prados, consejero delegado del grupo de spa Aire Ancient Baths, lo tiene claro: “Es la primera ciudad del mundo. Si consigues triunfar, tienes la certeza de que podrás hacerlo en cualquier lugar del mundo porque la difusión que te aporta es enorme”. Sin embargo, como apunta Prados, llegar a montar un negocio no es tarea fácil. “Si intentas hacerlo a la manera española, fracasarás; tienes que cambiar la mentalidad completamente y, ante todo, contar con asesoramiento profesional. Es un servicio caro, pero, al final, te sale barato”, asegura contundente el empresario. Para su grupo, obtener permisos es uno de los trámites más complicados. “Exigen licencias para todo. Entre nuestros servicios ofrecemos un baño de vino que viene acompañado de una copa y, para ello, tuvimos que solicitar una autorización de alcohol. ¡Tuve que informar hasta del color de ojos de mi mujer!”, exclama. Otros de los inconvenientes que menciona es la gran rotación de personal: “En España formas a tus empleados y tienes casi la seguridad de que estarán contigo una media de dos años; en Nueva York se pueden marchar a los 15 días”.
+#LEGAL FORMS OF BUSINESSES IN THE USA
+In the US there are four types of companies, which in turn may contain different variations, according to the Spanish Chamber of Commerce in that country.
 
-Para montar una empresa en Nueva York, como en cualquier parte del mundo, es primordial escribir un plan de negocios, elegir la ubicación y pedir financiación, sugiere la Cámara de Comercio de España en Nueva York. Después, definir su estructura legal y registrar su nombre comercial. Tras ello, deberá solicitar un número de identificación fiscal, la compensación de trabajador, seguros por desempleo y por incapacidad. En general, pedir todas licencias necesarias según el tipo de negocio. Y es fundamental entender las responsabilidades que tendrá como empresario y empleador.
+Unique property. It requires few requirements. The owner assumes all financial and operational responsibility. The person's assets are linked to those of the company, so the owner assumes all risks.
 
-Otro caso destacable es el del cocinero Lolo Manso. Cuenta con tres restaurantes en Manhattan: los Socarrats y La Churrería. Manso no duda en animar a otros cocineros a abrir su negocio en la ciudad: “Si tienes confianza en tu producto, siempre hay hueco para el éxito. Aquí hay sitio para todos si se siguen tres normas: trabajo, trabajo y trabajo”. El empresario no deja pasar la oportunidad de mandar un mensaje a los políticos españoles: “Si quieren que la marca España triunfe, deben hacerlo a través de su gastronomía. Abrir escuelas de cocina por el mundo es una medida que daría a conocer nuestro producto y nuestro país”, finaliza.
+Corporation. They are entities independent of their owners. Shareholders are protected from the obligations and responsibilities generated by the company. At the tax level, there are two types: C and S. The C are the responsibility of the company, while the S have no tax obligations.
 
-#FORMAS JURÍDICAS DE LAS EMPRESAS EN EE UU
-En EE UU existen cuatro tipos de empresas, que a su vez pueden contener diferentes variaciones, según la Cámara de Comercio de España en dicho país.
+Limited liability company. Combination of corporation and limited partnership. Owners control shares and their responsibility for company operations depends on the percentage of titles they control. Taxes are borne individually by the shareholders.
 
-Propiedad única. Exige pocos requisitos. El propietario asume toda la responsabilidad financiera y operativa. Los activos de la persona están ligados a los de la compañía, por lo que el propietario asume todos los riesgos.
-
-Corporación. Son entidades independientes de sus propietarios. Los accionistas están protegidos de las obligaciones y responsabilidades generadas por la empresa. A nivel fiscal, hay dos tipos: C y S. Las C son responsabilidad de la compañía, mientras que las S no tienen obligaciones impositivas.
-
-Sociedad de responsabilidad limitada. Combinación de corporación y sociedad limitada. Los propietarios controlan acciones y su responsabilidad por las operaciones de la empresa depende del porcentaje de títulos que controlen. Los impuestos recaen de forma individual sobre los accionistas.
-
-Sociedad limitada. Formada por dos personas o entidades para poseer y gestionar la empresa. Los socios comparten beneficios, pérdidas y la gestión de la firma. Los impuestos son también responsabilidad individual de los socios.
+Limited society. Formed by two people or entities to own and manage the company. The partners share profits, losses and the management of the firm. Taxes are also the individual responsibility of the partners.
