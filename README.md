@@ -132,187 +132,185 @@ Limited liability company. Combination of corporation and limited partnership. O
 Limited society. Formed by two people or entities to own and manage the company. The partners share profits, losses and the management of the firm. Taxes are also the individual responsibility of the partners.
 
 
-##Problematica actual en el año 2020 con COVID-19
+## Current problem in the year 2020 with COVID-19
 
-Despues de dar una introduccion de cada una de las ciudades, puedo dictaminar la problematica que se esta viviendo hoy en dia por el COVID-19.
+After giving an introduction to each of the cities, I can dictate the problem that is being experienced today by COVID-19.
 
 TORONTO
-Multarán en Toronto, Canadá a quien no cumpla con distanciamiento social por Covid-19
-El alcalde John Tory dijo que se le ha advertido en reiteradas veces a la ciudadanía que debe ponerse fin a la desobediencia deliberada en medio de la pandemia de coronavirus.
-CANADÁ.- Cualquier persona que camine a menos de 1,80 metros (seis pies) de otra en un parque o plaza pública de Toronto podría ser multado hasta con 5.000 dólares canadienses (3.536 dólares estadounidenses), informaron el jueves autoridades.
+Whoever does not comply with social distancing will be fined in Toronto, Canada for Covid-19
+Mayor John Tory said citizens have been repeatedly warned that deliberate disobedience must be ended amid the coronavirus pandemic.
+CANADA.- Anyone walking less than 1.80 meters (six feet) from another in a park or public square in Toronto could be fined up to C $ 5,000 (US $ 3,536), authorities said Thursday.
 
-El alcalde John Tory dijo que se le ha advertido en reiteradas veces a la ciudadanía que debe ponerse fin a la desobediencia deliberada en medio de la pandemia de coronavirus.
+Mayor John Tory said citizens have been repeatedly warned that deliberate disobedience must be ended amid the coronavirus pandemic.
 
 
-Hay vidas en riesgo, y tomaremos medidas más estrictas con la esperanza de que los pocos que no las entienden, o fingen que no las entienden, se apeguen al programa”, aseveró Tory.
+Lives are at risk, and we will take stricter measures in the hope that the few who don't understand them, or pretend they don't understand them, will stick to the program, "said Tory.
 
-Tory señaló que los problemas se registran actualmente en parques y espacios públicos. Precisó que las personas que no viven juntas necesitan estar distanciadas. Las personas de una misma familia están exentas de la medida.
+Tory noted that the problems are currently reported in parks and public spaces. He specified that people who do not live together need to be apart. People from the same family are exempt from the measure.
 
-El alcalde indicó que, si se vuelve un problema en aceras u otros sitios, lo atenderán posteriormente. Las nuevas directrices permanecerán vigentes por los próximos 30 días.
+The mayor indicated that, if it becomes a problem on sidewalks or other places, they will attend to it later. The new guidelines will remain in effect for the next 30 days.
 
-Tory dijo que no quiere que Toronto, la ciudad más poblada de Canadá, se convierta en Nueva York, que ha sido el epicentro del brote de coronavirus en Estados Unidos.
-
+Tory said she does not want Toronto, Canada's most populous city, to become New York, which has been the epicenter of the coronavirus outbreak in the United States.
 
 NEW YORK
+Coronavirus: the covid-19 drama in New York, a city with crowded morgues and field hospitals
 
-Coronavirus: el drama del covid-19 en Nueva York, una ciudad con las morgues repletas y hospitales de campaña
+Philip Tassi warns that the cemetery where he works is overflowing with orders, but there is no time for breaks here: the New York government has just announced that between Monday and Tuesday there was a new record of 731 deaths from the coronavirus in the state.
 
-Philip Tassi advierte que el cementerio donde trabaja está desbordado de pedidos, pero aquí no hay tiempo para pausas: el gobierno de Nueva York acaba de anunciar que entre el lunes y martes se registró un nuevo récord de 731 muertes por el coronavirus en el estado.
+"The number of burial and cremation requests we have is probably up 300%," says Tassi of the Ferncliff cemetery in Westchester, just a few miles north of Manhattan.
 
-"El número de solicitudes de entierros y cremaciones que tenemos está subiendo 300% probablemente", dice Tassi sobre el camposanto de Ferncliff en Westchester, pocos kilómetros al norte de Manhattan.
+Up to 20 bodies now pass through this crematorium in 16-hour working hours, seven days a week. But even so, operating at maximum capacity, the schedule is full until the end of next week.
 
-Por ese crematorio pasan ahora hasta 20 cuerpos en jornadas laborales de 16 horas, los siete días de la semana. Pero incluso así, operando al máximo de capacidad, la agenda está colmada hasta fines de la próxima semana.
+History repeats itself elsewhere in New York, the epicenter of the coronavirus pandemic in the United States, the country with the most confirmed cases of covid-19 in the world.
 
-La historia se repite en otros lugares de Nueva York, el epicentro de la pandemia de coronavirus en Estados Unidos, el país con más casos confirmados de covid-19 en el mundo.
+"Most cemeteries don't have refrigeration units for a pandemic. So the biggest problem now is that we don't have refrigerated storage to keep bodies here for long periods," says Tassi, who chairs the State Cemetery Association of New York and has been working in the sector for 23 years.
 
-"La mayoría de los cementerios no tienen unidades de refrigeración para una pandemia. Entonces, el problema más grande ahora es que no tenemos almacenamiento refrigerado para mantener los cuerpos aquí por largos períodos", señala Tassi, quien preside la Asociación de Cementerios del Estado de Nueva York y trabaja desde hace 23 años en el sector.
+Funeral homes are also overwhelmed, and authorities have sent dozens of mobile morgues or refrigerated trailers to hospitals and other parts of the city to prevent corpses from accumulating without a place to receive them, as has happened in other countries hit by the virus.
 
-Las funerarias también están rebasadas, y las autoridades han enviado decenas de morgues móviles o tráilers con refrigeración a hospitales y otros puntos de la ciudad para evitar que los cadáveres se acumulen sin un lugar que los reciba, como ha ocurrido en otros países golpeados por el virus.
+The Guayaquil drama, which has more coronavirus deaths than entire countries and fights against the clock to give them a decent burial
+"I have never seen anything like this in my entire life, this many people who can die in such a short period," Tassi tells BBC Mundo. "Not even on 9/11 did we have the number of bodies you have with this," he says, referring to the 2001 attacks in the city.
 
-El drama de Guayaquil, que tiene más muertos por coronavirus que países enteros y lucha a contrarreloj para darles un entierro digno
-"Nunca he visto algo así en toda mi vida, esta cantidad de personas que pueden fallecer en un período tan corto", le dice Tassi a BBC Mundo. "Ni en el 11-S teníamos el número de cuerpos que tienes con esto", sostiene en referencia a los atentados de 2001 en la ciudad.
+Philip Tassi warns that the cemetery where he works is overflowing with orders, but there is no time for breaks here: the New York government has just announced that between Monday and Tuesday there was a new record of 731 deaths from the coronavirus in the state.
 
-Philip Tassi advierte que el cementerio donde trabaja está desbordado de pedidos, pero aquí no hay tiempo para pausas: el gobierno de Nueva York acaba de anunciar que entre el lunes y martes se registró un nuevo récord de 731 muertes por el coronavirus en el estado.
+"The number of burial and cremation requests we have are probably up 300%," says Tassi of the Ferncliff cemetery in Westchester, just a few miles north of Manhattan.
 
-"El número de solicitudes de entierros y cremaciones que tenemos está subiendo 300% probablemente", dice Tassi sobre el camposanto de Ferncliff en Westchester, pocos kilómetros al norte de Manhattan.
+Up to 20 bodies now pass through this crematorium in 16-hour working hours, seven days a week. But even so, operating at maximum capacity, the schedule is full until the end of next week.
 
-Por ese crematorio pasan ahora hasta 20 cuerpos en jornadas laborales de 16 horas, los siete días de la semana. Pero incluso así, operando al máximo de capacidad, la agenda está colmada hasta fines de la próxima semana.
+History repeats itself elsewhere in New York, the epicenter of the coronavirus pandemic in the United States, the country with the most confirmed cases of covid-19 in the world.
 
-La historia se repite en otros lugares de Nueva York, el epicentro de la pandemia de coronavirus en Estados Unidos, el país con más casos confirmados de covid-19 en el mundo.
+"Most cemeteries don't have refrigeration units for a pandemic. So the biggest problem now is that we don't have refrigerated storage to keep bodies here for long periods," says Tassi, who chairs the State Cemetery Association of New York and has been working in the sector for 23 years.
 
-"La mayoría de los cementerios no tienen unidades de refrigeración para una pandemia. Entonces, el problema más grande ahora es que no tenemos almacenamiento refrigerado para mantener los cuerpos aquí por largos períodos", señala Tassi, quien preside la Asociación de Cementerios del Estado de Nueva York y trabaja desde hace 23 años en el sector.
+## WORLD LEVEL WITH RESTAURANT BUSINESSES BY COVID-19
 
-##NIVEL MUNDIAL CON NEGOCIOS RESTAURANTES POR COVID-19
+Coronavirus and restaurants: preventive measures and economic prospects of the COVID-19 crisis
 
-Coronavirus y restaurantes: medidas preventivas y perspectivas económicas de la crisis del COVID-19
+The Coronavirus (SARS-CoV-2 or 2019-nCoV) is one of the many viruses in the Coronaviridae family that affects birds, and various mammals such as hedgehogs, pangolins, and bats. When they break the border between animals and humans, people usually present more or less severe respiratory symptoms.
 
-El Coronavirus (SARS-CoV-2 o 2019-nCoV) es uno de los muchos virus de la familia Coronaviridae que afectan a aves, y mamíferos varios como erizos, pangolines y murciélagos. Cuando rompen la frontera entre animales y humanos, las personas suelen presentar sintomatologías respiratorias más o menos graves.
+The coronavirus that concerns us has a great contagion capacity, but the disorders it causes are rather mild. Proof of this is that the average profile of deaths is that of an octogenarian with previous health problems.
 
-El coronavirus que nos atañe tiene una gran capacidad de contagio, pero los trastornos que causa son más bien leves. Prueba de ello es que el perfil medio de las defunciones sea el de una persona octogenaria con problemas de salud previos.
+Although, the lightness of the cases should not be misleading. If the number of infections becomes very high, so will the death toll. And if the peak of coronavirus cases is reached too quickly, the national health system will not be able to cope with all critical cases. Hence, prevention, containment and elimination measures are essential. Even more so when we know little about the organism in question.
 
-Si bien, la levedad de los casos no debe llevar a engaño. Si el número de contagios llega a ser muy alto, también lo será el de muertos. Y si el pico de casos de coronavirus se alcanza demasiado rápido, el sistema nacional de sanidad no podrá copar con todos los casos críticos. De ahí que sean imprescindibles las medidas de prevención, contención y eliminación. Más aún cuando sabemos poco sobre el organismo en cuestión.
+As the situation in Wuhan and Hubei (China) stabilizes and the number of new daily cases reported peaks, a clear indicator that the situation has been brought under control, it is Europe's turn to demonstrate that it can take appropriate measures to end the crisis.
 
-Mientras la situación en Wuhan y Hubei (China) se estabiliza y el número de nuevos casos diarios reportados toca techo, claro indicador de que la situación se ha controlado, es el turno de Europa para demostrar que puede tomar las medidas oportunas para poner fin a la crisis.
+The country
 
-El País
+Italy was the first country to face a difficult situation. Currently, with the entire nation in quarantine, it serves as a benchmark for what can reach France and Germany, and also Spain, of course.
 
-Italia fue el primer país en enfrentarse a una situación difícil. Actualmente, con toda la nación en cuarentena, sirve como referente para lo que puede llegar a Francia y Alemania, y también a España, claro está.
+In just a few days we have witnessed notable changes in the way the problem was being managed in our country. From one day to the next Madrid and La Rioja have canceled classes, and in the capital social events have been canceled or suppressed up to a third of their initial capacity. The Madrid stock exchange has also suffered the biggest crash in its history.
 
-En tan solo unos días hemos asistido a cambios notables en el modo en el que se estaba gestionando el problema en nuestro país. De un día para otro Madrid y La Rioja han cancelado las clases, y en la capital los eventos sociales han quedado cancelados o suprimidos hasta un tercio de su aforo inicial. La bolsa de Madrid también ha sufrido el mayor desplome de su historia.
+Similar measures are expected to be imported into other autonomous communities. It is not a matter of scaremongering, the scenarios have changed and therefore the performances must change.
 
-Es previsible que medidas similares se importen a otras comunidades autónomas. No es cuestión de alarmismo, los escenarios han cambiado y por ende han de cambiar las actuaciones.
+But ... What does all this mean for the restaurant professional and in the hospitality world? You don't have to dig to see that there is little good news. However, for all those businesses that seek normality, in this article we will clearly explain the current circumstances in the sector and what measures need to be taken in the workplace to guarantee the well-being of workers and customers.
 
-Pero… ¿Qué significa todo esto para el profesional de los restaurantes y en el mundo de la hostelería? No hace falta indagar para percatarse de que hay pocas noticias buenas. Sin embargo, para todos aquellos negocios que busquen la normalidad, en este artículo expondremos con claridad las circunstancias actuales en el sector y qué medidas es necesario acoger en el espacio de trabajo para poder garantizar el bienestar de los trabajadores y de los clientes.
+Contraction of economic activity in restaurants and hospitality businesses
+It did not take panic for demand in restaurants and hotels to drop. The most affordable precaution for the general population is self-imposed confinement. Even when it is not total, the first thing to sacrifice is everything that does not represent a vital need. And going out to eat is not a matter of life or death.
 
-Contracción de la actividad económica en los restaurantes y negocios hosteleros
-No ha sido necesario que cundiera el pánico para que la demanda en restaurantes y hoteles descendiese. La precaución más asequible para la población general es un confinamiento autoimpuesto. Incluso cuando este no es total, lo primero en sacrificarse es todo aquello que no representa una necesidad vital. E ir a comer fuera de casa no es cuestión de vida o muerte.
+When the first cases were released in the Spanish Levante, the impact of the news had little impact. Some Valencian restaurants such as the Honoo, the Tonyina or the Bodega Anyora carried out their activity with total normality, pending in any case the news that came from the Valencia Hospitality Business Federation (FEHV), especially those that materialized in the form of protocols specific.
 
-Cuando se dieron a conocer los primeros casos en el Levante español, el impacto de la noticia apenas tuvo repercusión. Algunos restaurantes valencianos como el Honoo, el Tonyina o la Bodega Anyora realizaban su actividad con total normalidad, pendientes en todo caso de las novedades que llegasen desde la Federación Empresarial de Hostelería de Valencia (FEHV), especialmente aquellas que se materializasen en forma de protocolos específicos.
+Despite the first cases, everything was going as usual. However, the cancellation of one of the most important consumer electronics fairs on the planet, the Mobile World Congress in Barcelona, ​​raised the alarm on everyone's lips.
 
-Pese a los primeros casos, todo se desarrollaba como de costumbre. Sin embargo, la cancelación de una de las ferias de electrónica de consumo más importantes del planeta, el Mobile World Congress de Barcelona, puso la alarma en boca de todos.
+According to the Mirai reservation portal, which is trusted by more than 1,500 hotel brands, "The cancellation of the Mobile World Congress acted as a speaker over Spain: from then on, we noticed drops in conversion."
 
-De acuerdo al portal de reservas Mirai, en el que confían más de 1500 marcas hoteleras, «La cancelación del Mobile World Congress hizo de altavoz sobre España: a partir de entonces, notamos bajadas de conversión».
+The cancellation of this event has splashed many other industries, and of course also the world of gastronomy. The celebration of the Alimentaria-Hostelco fair in Barcelona and the Salón Gourmets in Madrid have been postponed. Luckily and for the moment, they are only postponed, those interested can attend between September 14 and 17 in the case of the event based in Catalonia, and between June 15 and 18 when we talk about the room.
 
-La cancelación de este evento ha salpicado a muchas otras industrias, y por supuesto también al mundo de la gastronomía. Se ha pospuesto tanto la celebración de la feria Alimentaria-Hostelco de Barcelona como el Salón Gourmets de Madrid. Por suerte y de momento, solo se aplazan, los interesados podrán asistir entre el 14 y el 17 de septiembre en el caso del evento con sede en Cataluña, y entre el 15 y el 18 de junio cuando hablamos del salón.
+That same uncertainty is what has caused a critical period for restaurants in terms of billing to be completely disrupted. In spring, around 30% of the total turnover for the year is generated, but this 2020 promises to be different.
 
-Esa misma incertidumbre es la que ha causado que un periodo crítico para los restaurantes en lo que a facturación se refiere quede completamente desbaratado. En primavera se genera en torno a un 30% de la facturación total del año, pero este 2020 promete ser diferente.
+Large cities depend on tourism to place their offer of services, and with the influx of tourists in question, there are no good prospects. In cities like Seville, there could be a 60% drop in foreign tourism, vital for the city. The cancellations of Chinese and Italian travelers are now joined by those of Americans and other European citizens.
 
-Las grandes ciudades dependen del turismo para colocar su oferta de servicios, y con la afluencia turística en entredicho, no hay buenas perspectivas. En ciudades como Sevilla, podría darse una caída del 60% del turismo extranjero, vital para la ciudad. A las cancelaciones de los viajeros chinos e italianos, se unen ahora las de estadounidenses y otros conciudadanos europeos.
+Seville has also been hit by the cancellation of scientific and professional conferences. Companies and institutions are the first to want to protect their human resources, especially when it comes to highly qualified workers.
 
-Sevilla se ha visto golpeada también por la cancelación de congresos científicos y profesionales. Las empresas e instituciones son las primeras que quieren proteger sus recursos humanos, especialmente cuando se trata de trabajadores altamente cualificados.
+The situation, from the first moment, has been negative. A freezing of the reserves is foreseen that will last for a period of several months and could be accused if the Easter processions and other typical festivals of these dates end up being canceled.
 
-La situación, desde el primer momento, ha sido negativa. Se prevé una congelación de las reservas que se extenderá por un periodo de varios meses y podría verse acusada si las procesiones de Semana Santa y otras fiestas típicas de estas fechas acaban cancelándose.
+According to Antonio Luque, president of the Hoteliers Association, "we are on the verge of starting the high season and if fewer tourists come, we will have a hard time."
 
-Según Antonio Luque, presidente de la Asociación de Hosteleros, «nos encontramos a las puertas de iniciar la temporada alta y si vienen menos turistas, lo vamos a pasar mal».
+And everything points to the fact that the Easter congregations will be effectively canceled. As has already happened with the Venice Carnivals, sporting events or the Fallas. While in Italy a 60% drop in hotel and restaurant reservations was observed, in Spain a different situation is forecast: reservations are already made (some establishments were at 90% occupancy), but now a wave of cancellations will come which will approach 80% of the total.
 
-Y todo apunta a que las congregaciones de Semana Santa serán, efectivamente, canceladas. Tal como ha pasado ya con los Carnavales de Venecia, los eventos deportivos o las Fallas. Mientras que en Italia se observó una caída del 60% de las reservas en hoteles y restaurantes, en España se pronostica una situación diferente: las reservas ya están hechas (algunos establecimientos estaban al 90% de ocupación), pero ahora llegará una oleada de cancelaciones que se acercará al 80% del total.
+Wealthy Chinese tourists do not come, and now the arrival of French and Germans, who form the bulk of Spanish tourism, is not expected either. "Giving a negative view of the sector is increasing the problem," emphasizes the current president of the Las Palmas Hospitality and Tourism Federation, José María Mañaricúa; But it is difficult not to join this fear when all the data points in the same direction: giants from the hospitality sector such as AC Hotels and NH have already put opportunities on the table for workers to take advantage of a vacation plan now, an attempt to mitigation to mitigate the economic losses derived from the coronavirus outbreak. And the rumors of temporary ERE are already in the air ...
 
-No vienen los turistas chinos acaudalados, y ahora tampoco se espera la llegada de franceses y alemanes, quienes forman el grueso del turismo español. «Dar una visión negativa del sector es aumentar el problema», recalca el actual presidente de la Federación de Hostelería y Turismo de Las Palmas, José María Mañaricúa; pero es difícil no sumarse a este temor cuando todos los datos apuntan en la misma dirección: gigantes del sector hostelero como AC Hoteles y NH ya han puesto sobre la mesa oportunidades para que los trabajadores se acojan a un plan de vacaciones ahora, un intento de mitigación para paliar las pérdidas económicas derivadas del brote de coronavirus. Y los rumores de los ERE temporales ya surcan los aires…
+The public health problem associated with the new virus not only causes financial problems from the point of view of customer relationships. Large organized catering brands have been forced to cancel strategic meetings. Denny’s has canceled an investor conference and at KFC they have received notice from parent company Yum Brands to avoid unnecessary travel.
 
-El problema de salubridad pública asociado al nuevo virus no solo causa problemas económicos desde el punto de vista de las relaciones clientelares. Grandes marcas de restauración organizada se han visto obligadas a cancelar reuniones estratégicas. Denny’s ha cancelado una conferencia con inversores y en KFC han recibido aviso desde la empresa matriz, Yum Brands, para que eviten desplazamientos innecesarios.
+In summary, these are the main fronts facing restaurants during these difficult times:
 
-En resumen, estos son los principales frentes que encaran los restaurantes durante estos tiempos difíciles:
+Wealthy tourism from China disappears
+Tourism from Europe will critically decrease
+Tourism from the US is expected. USA take a heavy hit in the coming weeks
+About a third of local consumers will stop eating out due to the coronavirus
+More than two thirds of local customers could stop visiting restaurants if the crisis worsens
+The population is already changing its consumption habits to adapt to new circumstances
+Food delivery services will be reinforced as long as their activity is not paralyzed.
+Restaurants that base their business model on on-premise sales will receive the hardest hit
+Fast food chains could benefit from the ideal circumstances to enhance their efforts to implement systems such as takeaways and home delivery of food.
+What seems less likely is that attacks against Asian businesses will continue as the epidemic has reached the global stage.
 
-El turismo acaudalado procedente de China desaparece
-El turismo procedente de Europa menguará de forma crítica
-Se espera que el turismo procedente de EE. UU. sufra un fuerte golpe en las próximas semanas
-Alrededor de un tercio de los consumidores locales dejarán de comer fuera por el coronavirus
-Más de dos tercios de los clientes locales podría dejar de visitar los restaurantes si la crisis se agrava
-La población ya está cambiando sus hábitos de consumo para adaptarse a las nuevas circunstancias
-Los servicios de reparto a domicilio de comida saldrán reforzados siempre y cuando no se paralice su actividad.
-Los restaurantes que basen su modelo de negocio en la ventas on-premise recibirán el embate más duro
-Las cadenas de comida rápida podrían beneficiarse al darse las circunstancias ideales para potenciar sus esfuerzos de implantación de sistemas como la comida para llevar y el reparto domiciliario de comida
-Lo que parece menos probable es que se sigan continuando ataques contra los negocios asiáticos ahora que la epidemia ha alcanzado el escenario global.
+In the first moments there were very questionable instances promoted by an underlying racism and the disinformation to which the population is subjected. When the cases in Wuhan were the talk of all, Chinese and Japanese restaurants in New York experienced sales 60% below normal.
 
-En los primeros momentos se vivieron instancias muy cuestionables promovidas por un racismo subyacente y la desinformación a la que está sometida la población. Cuando los casos en Wuhan eran la comidilla de todos, los restaurantes chinos y japoneses de Nueva York experimentaban unas ventas un 60% por debajo de lo normal.
+In Spain, the media had to come to the aid of the Asian population residing in the country. And in France the situation was not very different, the Yuki restaurant in Paris, specialized in Japanese fusion food, dawned a day with graffiti alluding to the coronavirus.
 
-En España los medios de comunicación tuvieron que salir al auxilio de la población asiática residente en el país. Y en Francia la situación no fue muy diferente, el restaurante Yuki de París, especializado en comida japonesa de fusión, amaneció una jornada con pintadas aludiendo al coronavirus.
+The fears of the population have had to be allayed in some cases with the words of important personalities. In the USA USA the nervousness was such that former presidential candidate Michael Bloomberg, a Democratic party billionaire, had to allay voters' fears by saying he had plans to dine at a Chinese restaurant after ending the town meeting in which he was being interviewed by Fox News .
 
-Los miedos de la población han tenido que ser apaciguados en algunos casos con palabras de personalidades importantes. En EE. UU. el nerviosismo era tal que el excandidato presidencial Michael Bloomberg, un billonario del partido demócrata, tuvo que aplacar los temores de los votantes indicando que tenía planes de cenar en un restaurante chino tras terminar con la reunión municipal en la que estaba siendo entrevistado por Fox News.
+Even in East Asia, the Chinese have not escaped being judged without reason. In Hong Kong city, under siege by China's central government for months, some restaurants were refusing to serve mainland Chinese citizens. At least 100 restaurants were discovered doing these practices in research led by the Society for Community Organization (SoCO). Association spokesman Richard Tsoi Yiu-cheong commented in this regard that restaurants must be part of public health measures, but in the course of time they cannot take away or discriminate against citizens' rights.
 
-Ni siquiera en el oriente asiático se han librado los chinos de ser juzgados sin razón. En la ciudad de Hong Kong, asediada por el gobierno central de China desde hace meses, algunos restaurantes se estaban negando a servir a los ciudadanos de China continental. Al menos 100 restaurantes fueron descubiertos realizando estas prácticas en una investigación liderada por la Sociedad para la Organización Comunitaria (SoCO). El portavoz de la asociación Richard Tsoi Yiu-cheong comentaba al respecto que los restaurantes deben ser partícipes de las medidas de salud pública, pero en su transcurso no pueden arrebatar derechos a los ciudadanos ni discriminar contra ellos.
+Preventive measures to be implemented in the restaurant against coronavirus
+Official agencies have been quick to make recommendations on health material. Hospitality of Spain has launched a series of infographics that summarize the most important actions, namely:
 
-Medidas preventivas a implementar en el restaurante contra el coronavirus
-Los organismos oficiales no han tardado en sacar recomendaciones en material de salud. Hostelería de España ha lanzado una serie de infografías que resumen las acciones más importantes, a saber:
+Installation of disinfectant gel dispensers available for workers and users of the establishment
+Disinfection process of tableware and cutlery with temperatures above 80 degrees Celsius
+Washing of table linen, napkins and work clothes at temperatures above 60 degrees Celsius
+Cooking of food at temperatures above 70 degrees Celsius (coronavirus is not a foodborne disease, but cross-contamination may exist)
+Preserve the cold chain and keep preserved foods physically protected at all times by containers
+Limit customer handling and avoid sharing trousseau or food
+Keep your distance, minimize physical contact, and wash your hands with soap and water frequently
+Distance measures should be extreme when interlocutors show signs of suffering from a respiratory condition
+Regularly clean areas that can be caught or used frequently
 
-Instalación de dispensadores de geles desinfectantes disponibles para trabajadores y usuarios del establecimiento
-Proceso de desinfección de vajillas y cuberterías con temperaturas superiores a 80 grados centígrados
-Lavado de mantelería, servilletas y ropa de trabajo a temperaturas superiores a los 60 grados centígrados
-Cocinado de los alimentos a temperaturas por encima de los 70 grados centígrados (el coronavirus no es una enfermedad de transmisión alimentaria, pero puede existir contaminación cruzada)
-Preservar la cadena de frío y mantener los alimentos conservados protegidos físicamente en todo momento mediante recipientes
-Limitar la manipulación por parte de los clientes y evitar que se comparta ajuar o comida
-Mantener las distancias, minimizar el contacto físico y lavarse las manos con agua y jabón de forma frecuente
-Deben extremarse las medidas de distanciamiento cuando las personas interlocutoras presenten signos de padecer una afección respiratoria
-Limpiar con asiduidad las zonas susceptibles de ser agarradas o usadas con frecuencia
+These measures are inherited from the World Health Organization and the Ministry of Health. Elsewhere on the planet, official recommendations differ slightly. For example, the US Center for Disease Control and Prevention (CDC). USA further recommends that:
 
-Estas medidas vienen heredadas de la Organización Mundial de la Salud y del Ministerio de Sanidad. En otras partes del planeta, las recomendaciones oficiales difieren mínimamente. Por ejemplo, el Centro para el Control y Prevención de las Enfermedades (CDC) de EE. UU. recomienda además que:
+All personnel must know in detail the hygienic protocol, the chemical products used and the frequency with which they must be used.
+The hand washing process must last at least 20 seconds and be carried out with bactericidal soap and hot water
+The requirements regarding personal hygiene, those that take place outside the workplace, must be tightened
+Employees should avoid touching their mucosa if it has been a long time since they last washed their hands.
+If a worker is going to sneeze or cough, it is preferable that they do so in a disposable handkerchief, when this is not available they will do so on the fabric of their sleeve at the level of the forearm; the hand should not be used
+The N95, N99 and P95 masks prevent the transmission of the coronavirus, its use may become justified in high-risk areas where there is also a high influx of customers.
+Some large companies in the catering sector have already made changes to the way they work to reassure diners. This is the case of Starbucks, which has been operating in conflict zones in China and the United States. UU (specifically in Seattle).
 
-Todo el personal debe conocer en detalle el protocolo higiénico, los productos químicos empleados y la frecuencia con la que estos deben ser usados
-El proceso de lavado de manos debe durar al menos 20 segundos y realizarse con jabón bactericida y agua caliente
-Deben endurecerse las exigencias en materia de higiene personal, aquella que tiene lugar fuera del espacio de trabajo
-Los empleados deben evitar tocar sus mucosas si ha pasado mucho tiempo desde la última vez que lavaron sus manos
-Si un trabajador va a estornudar o toser es preferible que lo haga en un pañuelo desechable, cuando este no esté disponible lo hará sobre la tela de su manga a la altura del antebrazo; no debe utilizarse la mano
-Las mascarillas N95, N99 y P95 impiden la transmisión del coronavirus, su uso puede llegar a estar justificado en áreas de alto riesgo donde además haya una alta afluencia de clientela
-Algunas grandes empresas del sector restauración ya han hecho cambios en su modo de funcionamiento para tranquilizar a sus comensales. Es el caso de Starbucks, que ha estado operando en zonas conflictivas de China y EE. UU (concretamente en Seattle).
+Starbucks experienced a 78% drop in coffee sales in China during the month of February, and the second quarter does not seem very flattering, the volume of business is expected to be only 50% last year. All this despite the fact that 90% of its stores are operational.
 
-Starbucks ha experimentado un descenso de las ventas de café del 78% en China durante el mes de febrero, y el segundo trimestre no parece muy halagador, se prevé que el volumen de negocio sea solo el 50% del año pasado. Todo ello pese a que el 90% de sus locales están operativos.
+The measures that Starbucks has taken are very similar to those already exposed, but the following should be noted:
 
-Las medidas que Starbucks ha tomado son muy similares a las ya expuestas, pero cabe destacar las siguientes:
+All workers go through a daily control of body temperature and wear masks at all times
+There is a pre-reception security station where customers are also tested to rule out fevers.
+Establishment of the Contactless Starbucks Experience protocol that prevents contact between workers and customers
+Improvement in the disinfection and sanitization processes of the ingredients, devices and tools involved in the preparation of coffee
+The distribution of the tables has been distanced
+McDonald’s has also been quick to adopt new measures to fight the coronavirus and minimize economic losses as much as possible. On the one hand, they have created an internal decision-making group in charge of everything related to the SARS-CoV-2, while in the premises soap dispensers have been installed in the kitchen and in the lobby, at the same time that it has been reinforced Cleaning.
 
-Todos los trabajadores pasan por un control diario de temperatura corporal y llevan mascarillas en todo momento
-Hay una estación de seguridad previa al recibidor donde los clientes también son testados para descartar fiebres
-Instauración del protocolo Contactless Starbucks Experience que impide el contacto entre trabajadores y clientes
-Mejora en los procesos de desinfección e higienización de los ingredientes, aparatos y útiles implicados en la preparación del café
-La distribución de las mesas se ha distanciado
-McDonald’s tampoco ha tardado en adoptar nuevas medidas para luchar contra el coronavirus y minimizar al máximo las pérdidas económicas. Por un lado han creado un grupo de decisión interno a cargo de todo lo relacionado con el SARS-CoV-2, mientras que en los locales se han instalado dispensadores de jabón en la cocina y en el lobby, al mismo tiempo que se ha reforzado la limpieza.
+One of the points that are least taken into consideration, however, is the delivery of information to the consumer. This is an aspect that must also be acted on, as the client is often the person who feels most vulnerable when he is submerged in the sea of ​​disinformation that is social networks and the media these days. Returning to normality can reactivate your daily consumption habits and have a better economic profile for the companies with which you interact.
 
-Uno de los puntos que menos se están teniendo en consideración, no obstante, es la entrega de información al consumidor. Este es un aspecto sobre el que también hay que actuar pues a menudo el cliente es la persona que más vulnerable se siente cuando está sumergido en el mar de desinformación que son las redes sociales y los medios de comunicación estos días. Volver a la normalidad puede reactivar sus hábitos de consumo cotidianos y repercutir en un mejor perfil económico para las empresas con las que interactúe.
+And always, always, we must remember that stopping this epidemic is everyone's responsibility. We hope that with this article our readers will know what to expect and what steps to take depending on local circumstances at all times. In this way we have no doubt that they will be able to wish their diners not only good profit, but also good health.
 
-Y siempre, siempre, debemos recordar que parar esta epidemia es responsabilidad de todos. Esperamos que con este artículo nuestros lectores sepan a qué atenerse y qué medidas han de tomar dependiendo de las circunstancias locales en todo momento. De esta manera no nos cabe duda de que podrán desear a sus comensales no solo buen provecho, sino también buena salud.
+## POSSIBLE SOLUTION BY COVID-19 IN RESTAURANTS WORLDWIDE
 
-##POSIBLE SOLUCION POR COVID-19 EN RESTAURANTES A NIVEL MUNDIAL
+After the closure of the hospitality sector, at least, when it comes to eating on the premises, a new not very rosy panorama appears that restaurants will have to face to survive in the best way.
 
-Tras el cierre del sector hostelero, al menos, en lo que se refiere a comer en el propio local, aparece un nuevo panorama nada halagüeño al que los restaurantes deberemos hacer frente para sobrevivir de la mejor manera.
+Make no mistake, the situation is not going to be easy. Despite the measures adopted by the Government to be able to pay the rents, not having to throw away a large part of the stock that we had or seeing how to appease the new situation of our workers, it will bring many headaches and adversities that will lead to the ruin many of today's businesses.
 
-No nos engañemos, la situación no va a ser sencilla. A pesar de las medidas adoptadas por el Gobierno para poder pagar los alquileres, no tener que tirar gran parte del stock del que disponíamos o ver como apaciguar la nueva situación de nuestros trabajadores, va a traer muchos quebraderos de cabeza y adversidades que llevarán a la ruina a muchos de los negocios actuales. 
+Therefore, from TheCookingClubster, we offer a series of recommendations to try to cushion the blow in the best way, and why not, take advantage of the situation.
 
-Por ello, desde TheCookingClubster, ofrecemos una serie de recomendaciones para intentar amortiguar el golpe de la mejor manera, y porque no, sacarle provecho a la situación. 
+TAKE CARE OF YOUR TEAM
+Although now it may seem like a drag on your survival as a restaurant, the situation is not their fault, and only with good communication, sensible agreements, and clear management of the situation, can you reinforce your image as a leader so that everyone understands the need of fighting for a common goal.
 
-CUIDA A TU EQUIPO
-Aunque ahora pueda parecer un lastre para tu supervivencia como restaurante, la situación no es culpa de ellos, y solo con una buena comunicación, acuerdos sensatos, y una gestión clara de la situación, podrás reforzar tu imagen de líder para que todos entiendan la necesidad de luchar por un objetivo común.
+STAY UP-TO-DATE WITH THE CURRENT
+Government announcements or announcements regarding laws or economic measures are many and varied during this state of alarm, therefore being very up to date with all this news together with your labor, tax and accounting advisers will help you make the best decisions. in the shortest possible time.
 
-ESTATE AL DÍA CON LA ACTUALIDAD
-Los comunicados o anuncios del Gobierno en materia de leyes o medidas económicas son muchas y variantes durante este estado de alarma, por lo tanto estar muy al día con todas estas noticias junto con tus asesores laborales, fiscales y contables te ayudarán a tomar las mejores decisiones en el menor tiempo posible. 
+TAKE ADVANTAGE OF YOURSELF AS A RESTAURANT
+It is a good time to stop, even if it is an obligation, and analyze how your business is going. Take a kind of x-ray of the current situation of your project until before the crisis and adapt the business plan to the effects of it. Being forward-looking and analyzing the future is a good way not to go bankrupt along the way.
 
-APROVECHA PARA AUTOANALIZARTE COMO RESTAURANTE
-Es un buen momento para parar, aunque sea por obligación, y autoanalizar cómo va tu negocio. Sacar una especie de radiografía de la situación actual de tu proyecto hasta antes de la crisis y adaptar el plan de negocio a los efectos de la misma. Ser previsor y analizar el futuro es una buena forma de no arruinarnos por el camino.
+To help this self-analysis, keep an eye on our social networks @thecookingclubster since these days we will post a MINIGAP on our website: an analytical survey that will help you analyze where you are and what you can improve from your restaurant to increase billing , improve food, customer experience or online reputation. Before taking action it is important to know what action to take.
 
-Para ayudar a este autoanálisis, estar atentos nuestras redes sociales @thecookingclubster ya que  en estos días os colgaremos en nuestra página web un MINIGAP: una encuesta analítica que te ayudará a analizar en qué lugar estas y qué puedes mejorar de tu restaurante para incrementar la facturación, mejorar la comida, la experiencia del cliente o la reputación online. Antes de tomar medidas es importante saber qué medidas tomar.
+YOUR CLIENT IS ONLINE
+Let's think it is a good time to dedicate to our online presence. Do we have adapted social networks? Do we have a powerful image in RRSS? What about our website? Is it up to date? Do we know what our target customers think of us? It is time to ask yourself these and many questions and put an end to them.
 
-TU CLIENTE ESTA ONLINE
-Pensemos que es un buen momento para dedicarle a nuestra presencia online. ¿tenemos las redes sociales adaptadas? ¿Tenemos una imagen potente en RRSS?, ¿y nuestra página web? ¿está al día?, ¿Conocemos los que nuestros clientes objetivos piensan de nosotros?, es el momento de hacerse estas y muchas preguntas y ponerles fin. 
+BE CREATIVE
+They say that in periods of crisis the greatest opportunities arise, and it is true. It is a perfect time to get to know you better, to get to know you and to provide solutions to your customers who will thank you later as a brand. The brand value is not only the monthly billing.
 
-SÉ CREATIVO
-Dicen que en los periodos de crisis surgen las mayores oportunidades, y es cierto. Es un momento perfecto para conocerte mejor, que te conozcan y darle soluciones a tus clientes que luego te lo agradecerán como marca. El valor de la marca, no sólo es la facturación mensual. 
-
-En este momento en que las noticias muestran a gente haciendo triatlón en casa, nuevos cientos de canales de cocina, las nuevas “fit house”, o un sinfín de acciones creativas, pensar, ¿cómo ayudar a nuestro cliente? Es una buena manera de entrar en sus vidas y quedarte.
+At this time when the news shows people doing triathlon at home, new hundreds of kitchen channels, new “fit house”, or endless creative actions, think, how can we help our client? It is a good way to enter their lives and stay.
